@@ -1,0 +1,27 @@
+QuestionID: 1999-W11-2-1
+Answer: 7
+
+QuestionID: 1999-W11-2-2
+Answer: 3
+
+QuestionID: 1999-W11-2-3
+Answer: 78
+
+QuestionID: 1999-W11-2-4
+Answer: 34
+
+QuestionID: 1999-W11-2-5
+Answer: 45
+
+QuestionID: 1999-W11-2-6
+Answer: 76
+
+QuestionID: 1999-W11-2-8
+Answer: 73
+
+QuestionID: 1999-W11-2-9
+Answer: 89
+
+QuestionID: 1999-W11-2-10
+Answer: 15
+
