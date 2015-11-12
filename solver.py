@@ -20,11 +20,11 @@ def QASolver(qaTest):
 def questionSolver(question, story):
     #question is a string
     #story is the story_text in QATest
-    words = nltk.word_tokenize(question)
-    pos_words =  nltk.pos_tag(words)
-    parser = nltk.parse.malt.MaltParser()
-    for tree in parser.parse(pos_words):
-        print(tree)
+    #words = nltk.word_tokenize(question)
+    #pos_words =  nltk.pos_tag(words)
+    #parser = nltk.parse.malt.MaltParser()
+    #for tree in parser.parse(pos_words):
+    #    print(tree)
 
 
 

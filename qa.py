@@ -27,7 +27,6 @@ if __name__ == '__main__':
     rlt = []
     for qa in qaTests:
         rlt = rlt + QASolver(qa)
-        break
 
 
     f = open('output.txt', 'w')
