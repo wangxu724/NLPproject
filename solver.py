@@ -168,7 +168,7 @@ def questionSolver(question, story):
                 if item[1] == "IN" and (item[0] == 'in' or item[0] == 'on' or item[0] == 'at'):
                     in_flag = True;
                     flag = False;
-                elif in_flag == True and (item[1] == 'DT' or isNNP(item[1]) or item[1] == 'IN' or item[1] == 'CC'):
+                elif in_flag == True and (item[1] == 'DT' or isNNP(item[1]) or item[1] == 'IN' or item[1] == 'CC' or item[1] == 'JJ'):
                     if flag == True:
                         item_word = ""
                         continue
@@ -190,12 +190,13 @@ def questionSolver(question, story):
                         return item[0];
         return res_sent[0]
     else:
-        return res_sent[0]
+        return story[maxi][maxj]
 
 
 
-
-    return item_word
+    if item_word != "":
+        return item_word
+    return story[maxi][maxj]
 
 
 
