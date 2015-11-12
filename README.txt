@@ -3,16 +3,25 @@ Group Member:
 	Kaiqiang Wang, u0931645
 
 ==========================================================================
-1, How to rum our codes?
+1, How to run our codes?
 
 	1) INSTALL nltk library for python
 		Since we import some method from a python's natural language processing library, nltk, it's required to install the library into the python's enivornment. 
 		We provide some commands to help you do that as below:
-
-		*******************************************************************
-		************* The commands to install the nltk lib ****************
-		*******************************************************************
-
+        
+        if you can sudo
+            pip install nltk
+        else:
+            1. run: pip install --install-option="--prefix=/some/local/path/" nltk
+            2. Add /that/path/ the PYTHONPATH environment variable
+            3. run: python
+            4. in the python interpreter type:
+                import nltk
+                nltk.download()
+                d all
+                q
+                exit()
+            
 
 	2) Instructions of code files and folders.
 		- data/: The folder including all test files for loaded by program, *.story, *.questions. 
@@ -30,10 +39,7 @@ Group Member:
 
 ==========================================================================
 2, Which CADE machine we tested out program ?
-
-	*******************************************************************
-	************* The CADE machine ID running our code ****************
-	*******************************************************************
+lab2-5
 
 
 

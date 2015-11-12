@@ -28,6 +28,8 @@ def load_data(filename):
     f = open(filename)
     IDs = []
     directory = f.readline().rstrip()
+    while len(directory) > 0 and directory[-1] == '/':
+        directory = directory[:-1]
     while True:
         l = f.readline()
         if l == "":
