@@ -9,18 +9,19 @@ Group Member:
 		Since we import some method from a python's natural language processing library, nltk, it's required to install the library into the python's enivornment. 
 		We provide some commands to help you do that as below:
         
-        if you can sudo
-            pip install nltk
-        else:
-            1. run: pip install --install-option="--prefix=/some/local/path/" nltk
-            2. Add /that/path/ the PYTHONPATH environment variable
-            3. run: python
-            4. in the python interpreter type:
-                import nltk
-                nltk.download()
-                d all
-                q
-                exit()
+        1.
+            if you can sudo
+                pip install nltk
+            else:
+                1. run: pip install --install-option="--prefix=/some/local/path/" nltk
+                2. Add /that/path/ the PYTHONPATH environment variable
+        2. run: python
+        3. in the python interpreter type:
+            import nltk
+            nltk.download()
+            d all
+            q
+            exit()
             
 
 	2) Instructions of code files and folders.
