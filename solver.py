@@ -118,7 +118,7 @@ def questionSolver(question, story):
     elif key_word == "Who":
         for sent in res_sent:
             pos_sents = nltk.pos_tag(nltk.word_tokenize(sent));
-            print pos_sents
+
             item_word = ""
             flag = False;
             for item in pos_sents:
@@ -138,7 +138,7 @@ def questionSolver(question, story):
     elif key_word == "What":
         for sent in res_sent:
             pos_sents = nltk.pos_tag(nltk.word_tokenize(sent));
-            print pos_sents
+
             nnp_words = []
             item_word = ""
             flag = False;
