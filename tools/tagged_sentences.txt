@@ -1,0 +1,2924 @@
+-----------
+Where  is South Queens Junior High School located ? 
+  WRB VBZ   NNP    NNP    NNP  NNP    NNP     VBD . 
+
+-----------
+Who  is the principal of South Queens Junior High School ? 
+ WP VBZ  DT        NN IN   NNP    NNP    NNP  NNP    NNP . 
+
+-----------
+What has South Queens Junior High School done with  its old metal shop ? 
+  WP VBZ   VBN    NNP    NNP  NNP    NNP  VBN   IN PRP$  JJ    NN   NN . 
+
+-----------
+Who runs the club ? 
+ WP  VBZ  DT   NN . 
+
+-----------
+How big  is the club ? 
+WRB  JJ VBZ  DT   NN . 
+
+-----------
+If you were  a student , how much would  a club membership cost you ? 
+IN PRP  VBD DT      NN , WRB   RB    MD DT   NN         NN   NN PRP . 
+
+-----------
+ A middle school in Liverpool , Nova Scotia  is pumping up bodies as wellas minds 
+DT     JJ     NN IN       NNP ,  NNP    NNP VBZ     VBG RP    NNS IN     JJ   NNS 
+
+-----------
+ It  's an example of  a school teaming up with the community to raisemoney 
+PRP VBZ DT      NN IN DT     NN     VBG RP   IN  DT        NN TO         VB 
+
+-----------
+South Queens Junior High School  is taking aim at the fitnessmarket 
+  NNP    NNP    NNP  NNP    NNP VBZ    VBG  NN IN  DT            NN 
+
+-----------
+The school has turned  its one-time metal shop - lost to budget cutsalmost two years ago - into  a money-making professional fitness club 
+ DT     NN VBZ    VBN PRP$       JJ    NN   NN :  VBN TO     NN         NN  CD   NNS  RB :   IN DT           JJ           JJ      NN   NN 
+
+-----------
+The club will be open seven days  a week 
+ DT   NN   MD VB   JJ    CD  NNS DT   NN 
+
+-----------
+The club , operated by  a non-profit society made up of school andcommunity volunteers , has sold more than 30 memberships and hired afull-time co-ordinator 
+ DT   NN ,      VBN IN DT         JJ      NN  VBD IN IN     NN           NN        NNS , VBZ  VBN  JJR   IN CD         NNS  CC   VBD         JJ           NN 
+
+-----------
+Principal Betty Jean Aucoin says the club  is  a first for  a Nova Scotiapublic school 
+      NNP   NNP  NNP    NNP  VBZ  DT   NN VBZ DT    JJ  IN DT  NNP          NNP     NN 
+
+-----------
+She says the school took  it on itself to provide aservice needed in Liverpool 
+PRP  VBZ  DT     NN  VBD PRP IN    PRP TO      VB       NN    VBN IN       NNP 
+
+-----------
+``  We  do n't have any athletic facilities here on the South Shore of NovaScotia , so if  we  do n't use  our schools , communities such as Queens aregoing to be struggling to get anything going , '' Aucoin said 
+`` PRP VBP  RB   VB  DT       JJ        NNS   RB IN  DT   NNP   NNP IN        NNP , RB IN PRP VBP  RB  VB PRP$     NNS ,         NNS   JJ IN    NNS      VBG TO VB        VBG TO  VB       NN   VBG , ''    NNP  VBD 
+
+-----------
+More than  a $ 100,000 was raised through fund-raising and donations fromgovernment , Sport Nova Scotia , and two local companies 
+ JJR   IN DT $      CD VBD    VBN      IN           NN  CC       NNS             NN ,   NNP  NNP    NNP ,  CC  CD    JJ       NNS 
+
+-----------
+Some people are wondering if the ties between the businesses and theschool are too close 
+  DT    NNS VBP       VBG IN  DT  NNS      IN  DT        NNS  CC        NN VBP  RB    JJ 
+
+-----------
+Schools are not set up to make profits or promotebusinesses 
+    NNS VBP  RB VBN RP TO   VB     NNS CC               NNS 
+
+-----------
+Southwest Regional School Board superintendent Ann Jones says there  's nofear the lines between education and business are blurring 
+      NNP      NNP    NNP   NNP             NN NNP   NNP  VBZ    EX VBZ     IN  DT   NNS      IN        NN  CC       NN VBP      VBG 
+
+-----------
+`` First call on any school facility belongs to 
+``    RB   VB IN  DT     NN       NN     NNS TO 
+
+-----------
+the youngsters in theschool , '' says Ann Jones 
+ DT        NNS IN        NN , ''  VBZ NNP   NNP 
+
+-----------
+The 12,000-square-foot club has seven aerobic machines , includingtreadmills , steppers , and stationary bicycles , as well as weightmachines and freeweights 
+ DT                 JJ   NN VBZ    CD      JJ      NNS ,                 NNS ,      NNS ,  CC         JJ      NNS , RB   RB IN            NNS  CC         NNS 
+
+-----------
+Memberships cost $ 180  a year for adults and $ 135 for students andseniors 
+        NNS  VBD $  CD DT   NN  IN    NNS  CC $  CD  IN      NNS        NNS 
+
+-----------
+Proceeds pay the salary of the centre co-ordinator and upkeep of thefacility 
+     NNS VBP  DT     NN IN  DT     JJ           NN  CC     NN IN          NN 
+
+-----------
+What team did Babe play for ? 
+  WP   NN VBD  NNP   NN  IN . 
+
+-----------
+What position did Babe play ? 
+  WP       NN VBD  NNP   VB . 
+
+-----------
+How tall was Babe ? 
+WRB   DT VBD  NNP . 
+
+-----------
+How much was Babe paid to play basketball ? 
+WRB   JJ VBD  NNP  VBD TO   VB         NN . 
+
+-----------
+How many games did the Edmonton Grads win ? 
+WRB   JJ   NNS VBD  DT      NNP   NNP  VB . 
+
+-----------
+When did Babe play for `` the finest basketball team that ever stepped out on  a floor '' ? 
+ WRB VBD  NNP   NN  IN ``  DT    JJS         NN   NN   IN   RB     VBD  RP IN DT    NN '' . 
+
+-----------
+Why did Babe stop playing basketball ? 
+WRB VBD  NNP   VB     VBG         NN . 
+
+-----------
+Who was Babe  's husband ? 
+ WP VBD  NNP POS      NN . 
+
+-----------
+Where did Babe  's daughter find scrapbooks ? 
+  WRB VBD  NNP POS       NN   VB        NNS . 
+
+-----------
+The world lost  a basketball hero this week -- and  we 're not talkingabout Michael Jordan 
+ DT    NN  VBD DT         NN   NN   DT   NN  :  CC PRP VBP  RB           IN     NNP    NNP 
+
+-----------
+You may not know  her name , but Noella `` Babe '' MacLean , who died this weekat age 87 , was one of Canada  's biggest sports stars 
+PRP  MD  RB   VB PRP$   NN ,  CC    NNP ``  NNP ''     NNP ,  WP  VBD   DT     NN  NN CD , VBD  CD IN    NNP POS     JJS    NNS   NNS 
+
+-----------
+She was  a memberof the `` winningest '' basketball team Canada ever had 
+PRP VBD DT       NN  DT ``        JJS ''         NN   NN    NNP   RB VBD 
+
+-----------
+But unlike retiredmillionaire Jordan , Babe never made  a cent for  her skills 
+ CC     IN                 NN    NNP ,  NNP    RB  VBD DT   NN  IN PRP$    NNS 
+
+-----------
+ Her team was known as the Edmonton Grads 
+PRP$   NN VBD   VBN IN  DT      NNP   NNP 
+
+-----------
+None of the members of theteam expected to do as well as they did 
+  NN IN  DT     NNS IN      NN      VBN TO VB RB   RB IN  PRP VBD 
+
+-----------
+They were just  a group ofyoung women from the same school who liked to play basketball 
+ PRP  VBD   RB DT    NN      JJ   NNS   IN  DT   JJ     NN  WP   VBD TO   VB         NN 
+
+-----------
+Their coach was teacher   J 
+ PRP$    NN VBD      RB NNP 
+
+-----------
+Percy Page , who later became the LieutenantGovernor of Alberta 
+  NNP  NNP ,  WP    RB    VBD  DT                NNP IN     NNP 
+
+-----------
+Their home base was McDougall Commercial HighSchool in Edmonton 
+ PRP$   NN   NN VBD       NNP        NNP        NNP IN      NNP 
+
+-----------
+For 25 years -- from 1915 to 1940 -- they broughtgreat honour to Canada and their home city , Edmonton 
+ IN CD   NNS  :   IN   CD TO   CD  :  PRP          VBP    NNS TO    NNP  CC  PRP$   NN   NN ,      NNP 
+
+-----------
+When they finally retired , the Grads had 108 championships to theircredit 
+ WRB  PRP      RB     VBD ,  DT   NNP VBD  CD           NNS TO          VB 
+
+-----------
+They won at all levels -- local , regional , national , international 
+ PRP VBD IN  DT    NNS  :    JJ ,       JJ ,       JJ ,            JJ 
+
+-----------
+and world 
+ CC    NN 
+
+-----------
+Of the 522 games they played they won 502 ! The inventorof the game of basketball ,  Dr 
+IN  DT  CD   NNS  PRP    VBD  PRP VBD  CD .  DT         NN  DT   NN IN         NN , NNP 
+
+-----------
+James Naismith called the Edmonton Grads '' the finest basketball team that ever stepped out on  a floor '' 
+  NNP      NNP    VBD  DT      NNP   NNP ''  DT    JJS         NN   NN   IN   RB     VBD  RP IN DT    NN '' 
+
+-----------
+Babe Belanger played with the Grads from 1929 to 1937 
+ NNP      NNP    VBD   IN  DT   NNP   IN   CD TO   CD 
+
+-----------
+She was aforward and she stood only  5 feet ,  2 inches tall 
+PRP VBD       RB  CC PRP   VBD   RB CD  NNS , CD    NNS   JJ 
+
+-----------
+In those days , marriage meant an end to  a young women  's career 
+IN    DT  NNS ,       NN   VBD DT  NN TO DT    JJ   NNS POS     NN 
+
+-----------
+Babe Belanger marriedIan MacLean , who continued the family sports tradition 
+ NNP      NNP         JJ     NNP ,  WP       VBD  DT     NN    NNS        NN 
+
+-----------
+ He later becamea trainer for Edmonton hockey teams and the Edmonton Eskimos and   B 
+PRP    RB     VBD      NN  IN      NNP     NN   NNS  CC  DT      NNP     NNP  CC NNP 
+
+-----------
+  C 
+SYM 
+
+-----------
+Lions football teams 
+  NNS       NN   NNS 
+
+-----------
+Babe never talked about  her fabulous career 
+ NNP    RB    VBD    IN PRP$       JJ     NN 
+
+-----------
+But  her daughter says thescrapbooks she found in the family  's basement show she was  a part of ateam that was every bit as sensational as the Edmonton Oilers inGretzky  's time 
+ CC PRP$       NN  VBZ            IN PRP   VBD IN  DT     NN POS       NN   NN PRP VBD DT   NN IN    NN  WDT VBD    DT  NN RB          JJ IN  DT      NNP    NNP       VBP POS   NN 
+
+-----------
+How much does Alexi Yashin earn as  a hockey player ? 
+WRB   JJ  VBZ   NNP    NNP  VBP IN DT     NN     NN . 
+
+-----------
+Who does Alexi Yashin play for ? 
+ WP  VBZ   NNP    NNP   NN  IN . 
+
+-----------
+How much money did Alexi Yashin actually donate to the National Arts Centre ? 
+WRB   JJ    NN VBD   NNP    NNP       RB     VB TO  DT      NNP  NNP    NNP . 
+
+-----------
+Why  do people go to the National Arts Centre ? 
+WRB VBP    NNS VB TO  DT      NNP  NNP    NNP . 
+
+-----------
+How would Alexi  's parents have benefited from  his donation to the National Arts Centre ? 
+WRB    MD   NNP POS     NNS  VBP       VBN   IN PRP$       NN TO  DT      NNP  NNP    NNP . 
+
+-----------
+Where did reporters question Alexi Yashin ? 
+  WRB VBD       NNS       NN   NNP    NNP . 
+
+-----------
+Ever heard the expression ``  do n't look  a gift horse in the mouth ? '' Itmeans not to be too critical if you get something for free 
+  RB   PDT  DT         NN `` VBP  RB   VB DT   NN    NN IN  DT    NN . ''     VBZ  RB TO VB  RB       JJ IN PRP VBP        NN  IN   JJ 
+
+-----------
+Well , that  is exactly what the federal government  is doing concerning amillion dollar gift to the National Arts Centre in Ottawa , Ontario 
+  RB ,   DT VBZ      RB   WP  DT      JJ         NN VBZ   VBG        VBG       NN     NN   NN TO  DT      NNP  NNP    NNP IN    NNP ,     NNP 
+
+-----------
+Andit appears the government does not like what  it has found 
+  NNP     VBZ  DT         NN  VBZ  RB   VB   WP PRP VBZ   VBN 
+
+-----------
+To continuethe metaphor ,  it look like this horse has some major dental problems 
+TO          VB       NN , PRP  VBP   IN   DT    NN VBZ   DT    JJ     NN      NNS 
+
+-----------
+The government has been looking at  a charitable donation by OttawaSenators hockey star Alexi Yashin 
+ DT         NN VBZ  VBN     VBG IN DT         JJ       NN IN            NNP     JJ   NN   NNP    NNP 
+
+-----------
+Earlier this year  he promised to giveone million dollars to the National Arts Centre ,  a concert hall wherepeople  go to see plays and dance and to hear live music 
+    RBR   DT   NN PRP      VBD TO      VB      CD     NNS TO  DT      NNP  NNP    NNP , DT      NN   NN          NN VBP TO  VB   NNS  CC    NN  CC TO   VB   JJ    NN 
+
+-----------
+Many Canadians were delighted to see that Alexi Yashin was donating somuch money 
+  JJ      NNPS  VBD       VBN TO  VB   IN   NNP    NNP VBD      VBG     JJ    NN 
+
+-----------
+Mr 
+NN 
+
+-----------
+Yashin makes  a salary of more than three million dollarsa season 
+   NNP   VBZ DT     JJ IN  JJR   IN    CD      CD       NN     NN 
+
+-----------
+ It  is very expensive to put on live performances and theNational Arts Centre has recently had to raise ticket prices and cutback on performances because of  a lack of funds 
+PRP VBZ   RB        JJ TO  VB IN   JJ          NNS  CC          JJ  NNP    NNP VBZ       RB VBN TO    VB     NN    NNS  CC      NN IN          NNS      IN IN DT   NN IN   NNS 
+
+-----------
+ It was the most famous donation ever to the National Arts Centre 
+PRP VBD  DT  RBS     JJ       NN   RB TO  DT      NNP  NNP    NNP 
+
+-----------
+Mr 
+NN 
+
+-----------
+Yashin  's popularity soared 
+   NNP POS         NN    VBD 
+
+-----------
+But then this week  Mr 
+ CC   RB   DT   NN NNP 
+
+-----------
+Yashin  's donation turned sour 
+   NNP POS       NN    VBD   JJ 
+
+-----------
+After giving the Centre $ 200,000 Alexi Yashin made an about face 
+   IN    VBG  DT    NNP $      CD   NNP    NNP  VBD DT    IN   NN 
+
+-----------
+Hedecided not to give the other $ 800,000  he had promised 
+      VBN  RB TO   VB  DT    JJ $      CD PRP VBD      VBN 
+
+-----------
+ He says  his decision was for personal reasons 
+PRP  VBZ PRP$       NN VBD  IN       JJ     NNS 
+
+-----------
+But  it now looks likeAlexi Yashin was not really being honest 
+ CC PRP  RB   VBZ        NN    NNP VBD  RB     RB   VBG    JJS 
+
+-----------
+ It seems  he actually changed  his mind because federal Auditor GeneralDenis Desautels told him  he was trying to break the law 
+PRP   VBZ PRP       RB     VBD PRP$   NN      IN      JJ     NNP          NNP       NNP  VBD PRP PRP VBD    VBG TO    VB  DT  NN 
+
+-----------
+Mr 
+NN 
+
+-----------
+Yashin originally announced  he was  a lover of the arts 
+   NNP         RB       VBD PRP VBD DT    NN IN  DT  NNS 
+
+-----------
+ He said thatas  a well paid hockey player  he wanted to help the National Arts Centreput on new performances 
+PRP  VBD     RP DT   NN  VBN     NN     NN PRP    VBD TO   VB  DT      NNP  NNP       NNP IN  JJ          NNS 
+
+-----------
+But behind the scenes  his plan was not to givethe Arts Centre one million dollars 
+ CC     IN  DT    NNS PRP$   NN VBD  RB TO      VB  NNP    NNP  CD      CD     NNS 
+
+-----------
+Instead , in  a secret agreement , the National Arts Centre would havehired  Mr 
+     RB , IN DT     JJ        NN ,  DT      NNP  NNP    NNP    MD        VB NNP 
+
+-----------
+Yashin  's parents at $ 85,000  a year 
+   NNP POS     NNS IN $     CD DT   NN 
+
+-----------
+They would have been paidout of Alexi Yashin  's yearly $ 200,000 donation 
+ PRP    MD   VB  VBN      IN IN   NNP    NNP POS     JJ $      CD       NN 
+
+-----------
+What  's more ,  his parentswould not have to actually work 
+  WP VBZ  JJR , PRP$           NN  RB   VB TO       RB   VB 
+
+-----------
+This was  a way for Alexi Yashin to give money to  his parents whileillegally saving thousands of dollars in taxes 
+  DT VBD DT  NN  IN   NNP    NNP TO   VB    NN TO PRP$     NNS             RB    VBG       NNS IN     NNS IN   NNS 
+
+-----------
+As well ,  a lawyer working for  Mr 
+IN   RB , DT     NN     VBG  IN NNP 
+
+-----------
+Yashin was to get $ 15,000 out of theremaining $ 115,000 
+    NN VBD TO  VB $     CD  IN IN          VBG $      CD 
+
+-----------
+So in fact the million dollar donation would really only be half ofthat 
+RB IN   NN  DT      CD     NN       NN    MD     RB   RB VB   NN     IN 
+
+-----------
+ It would have been  a great public relations victory 
+PRP    MD   VB  VBN DT    JJ     JJ       NNS      NN 
+
+-----------
+Mr 
+NN 
+
+-----------
+Yashin wouldlook like  he was being very generous 
+    JJ        NN   IN PRP VBD   VBG   RB       JJ 
+
+-----------
+But behind the scenes  he wasreally much less so 
+ CC     IN  DT    NNS PRP        RB   RB  RBR RB 
+
+-----------
+Yesterday evening the Ottawa Senators were playing in Boston 
+       NN     VBG  DT    NNP     NNPS  VBD     VBG IN    NNP 
+
+-----------
+After thegame reporters went to the locker room to ask Alexi Yashin what wasgoing on 
+   IN      NN       NNS  VBD TO  DT     NN   NN TO  VB   NNP    NNP   WP      VBG IN 
+
+-----------
+But  he refused to talk to reporters about  his `` personalreasons '' forcancelling  his donation 
+ CC PRP     VBD TO   VB TO       NNS    IN PRP$ ``             NNS ''           VBG PRP$       NN 
+
+-----------
+ He said simply that ``   I know   I did n't do anything illegal 
+PRP  VBD     RB   IN `` PRP  VBP PRP VBD  RB VB       NN      VB 
+
+-----------
+  I know Idid n't do anything wrong 
+PRP  VBP  VBP  RB VB       NN    JJ 
+
+-----------
+  I ca n't control what they say 
+PRP MD  RB      VB   WP  PRP VBP 
+
+-----------
+ It  's  a freecountry 
+PRP VBZ DT          NN 
+
+-----------
+`` 
+`` 
+
+-----------
+ He also said  he wanted to focus on hockey and nothing else 
+PRP   RB  VBD PRP    VBD TO    VB IN     NN  CC      NN   RB 
+
+-----------
+The otherplayers and coach of the Ottawa Senators would not comment either 
+ DT          NNS  CC    NN IN  DT    NNP     NNPS    MD  RB      VB     RB 
+
+-----------
+Theysaid  it was Alexi  's personal affair and not important to them 
+      IN PRP VBD   NNP POS       JJ     NN  CC  RB        JJ TO  PRP 
+
+-----------
+Many Ottawa-area hockey fans are deeply disappointed with what  is goingon 
+  JJ         NNP     NN  NNS VBP     RB           JJ   IN   WP VBZ      NN 
+
+-----------
+`` People here are puzzled 
+``    NNS   RB VBP     VBN 
+
+-----------
+They feel let down , '' says Rick Soweita , whoowns  a sports bar 
+ PRP  VBP  VB   RP , ''  VBZ  NNP     NNP ,     VBZ DT    NNS  NN 
+
+-----------
+``  He benefited from the publicity and now  he  's got toown up 
+`` PRP       VBD   IN  DT        NN  CC  RB PRP VBZ VBD   VBN RP 
+
+-----------
+`` 
+`` 
+
+-----------
+Who  is Wiarton Willie ? 
+ WP VBZ     NNP    NNP . 
+
+-----------
+What happened to him two days before Groundhog day ? 
+  WP      VBD TO PRP  CD  NNS     IN       NNP  NN . 
+
+-----------
+Who took care of Willie ? 
+ WP  VBD   NN IN    NNP . 
+
+-----------
+How old was Willie when  he died ? 
+WRB  JJ VBD    NNP  WRB PRP  VBD . 
+
+-----------
+When will  he be buried ? 
+ WRB   MD PRP VB    VBN . 
+
+-----------
+Where did Willie live ? 
+  WRB VBD    NNP   VB . 
+
+-----------
+Who claims to have received  a message from Willie  's spirit ? 
+ WP    VBZ TO   VB      VBN DT      NN   IN    NNP POS     NN . 
+
+-----------
+Wiarton Willie , the famous Canadian groundhog who predicted the arrivalof spring , diedin  his sleep of natural causes on Sunday , two days before Groundhog'sDay 
+    NNP    NNP ,  DT     JJ       JJ        NN  WP       VBD  DT        NN     NN ,     VB PRP$    NN IN      JJ    NNS IN    NNP ,  CD  NNS     IN            NNP 
+
+-----------
+ His death was kept secret until today when  a crowd gathered for Willie'sannual prediction 
+PRP$    NN VBD  VBN     JJ    IN    NN  WRB DT    NN      VBN  IN            NNP         NN 
+
+-----------
+``  We did n't really know what to do , '' said Sam Brouwer , who was been therodent  's caretaker over the last 10 years 
+`` PRP VBD  RB     RB   VB   WP TO VB , ''  VBD NNP     NNP ,  WP VBD  VBN        NN POS        NN   IN  DT   JJ CD   NNS 
+
+-----------
+``  We were absolutelydevastated 
+`` PRP  VBD                  VBN 
+
+-----------
+`` 
+`` 
+
+-----------
+Willie was placed in  a pine coffin for public viewing 
+   NNP VBD    VBN IN DT   NN     NN  IN     JJ      NN 
+
+-----------
+ His paws werecrossed ,  his eyelids had pennies on them and  he held  a carrot 
+PRP$   NN         VBD , PRP$     NNS VBD     NNS IN  PRP  CC PRP  VBD DT     NN 
+
+-----------
+Brouwersaid Willie was 22 years old , which  is three times longer than theaverage age  a groundhog survives in the wild 
+        NNP    NNP VBD CD   NNS  JJ ,   WDT VBZ    CD   NNS    RBR   IN         NN  NN DT        NN      VBZ IN  DT   NN 
+
+-----------
+ He will be buried in thespring 
+PRP   MD VB    VBN IN       VBG 
+
+-----------
+But Willie did make one more prediction 
+ CC    NNP VBD   VB  CD  JJR         NN 
+
+-----------
+ Al Given , mayor of South Bruce Peninsula , said that Willie  's spirit toldhim that  it would be an early spring 
+NNP   NNP ,    NN IN   NNP   NNP       NNP ,  VBD   IN    NNP POS     NN      NN   IN PRP    MD VB DT    JJ     NN 
+
+-----------
+ A search will begin to find Willie  's son , who will take over Willie'sdutiesand home --  a hutch in the front yard of  a motel south of Wiarton 
+DT     NN   MD    VB TO   VB    NNP POS  NN ,  WP   MD   VB   RP               NNP   NN  : DT    NN IN  DT    JJ   NN IN DT    NN    NN IN     NNP 
+
+-----------
+Wiarton Willie had done the job over thelast decade 
+    NNP    NNP VBD  VBN  DT  NN   IN      NN     NN 
+
+-----------
+If the sun was shining when Willie peeked  his head out , itmeant six more weeks of cold weather 
+IN  DT  NN VBD     VBG  WRB    NNP    VBD PRP$   NN  IN ,      JJ  CD  JJR   NNS IN   JJ      NN 
+
+-----------
+If  it was cloudy , Willie couldn'tsee  his shadow , which meant spring would come early 
+IN PRP VBD     NN ,    NNP         VBD PRP$     NN ,   WDT   VBD     NN    MD   VB    JJ 
+
+-----------
+Punxsutawney Phil , another famous groundhog who lives in Pennsylvania , did not see  his shadowthis morning 
+         NNP  NNP ,      DT     JJ        NN  WP   VBZ IN          NNP , VBD  RB  VB PRP$         NN      NN 
+
+-----------
+Sources : Reuters , CBC Radio News , Canadian Press 
+    NNS :     NNS , NNP   NNP  NNP ,       JJ   NNP 
+
+-----------
+Who plans to institute  a common code of conduct for students ? 
+ WP   VBZ TO        VB DT     JJ   NN IN      NN  IN      NNS . 
+
+-----------
+How many students would the code affect ? 
+WRB   JJ      NNS    MD  DT   NN     NN . 
+
+-----------
+Under the code , what could happen to  a student who swears at  a teacher ? 
+   IN  DT   NN ,   WP    MD     VB TO DT      NN  WP    VBZ IN DT      NN . 
+
+-----------
+When  is one time that schools will phone parents of students ? 
+ WRB VBZ  CD   NN  WDT     NNS   MD    NN     NNS IN      NNS . 
+
+-----------
+According to Johnson , how might  a student  's sloppy clothing affect them ? 
+      VBG TO     NNP , WRB    MD DT      NN POS     JJ       NN     VB  PRP . 
+
+-----------
+Students in Ontario may be wearing uniforms next fall , or dressing forschool in clothes that conform to  a province-wide dress code 
+     NNS IN     NNP  MD VB     VBG       JJ   JJ   NN , CC      VBG        NN IN     NNS  WDT     VBP TO DT            JJ    NN   NN 
+
+-----------
+ It  's part of the Ontario government  's plan to introduce  a common code ofconduct by next September for the province  's  2 
+PRP VBZ   NN IN  DT     NNP         NN POS   NN TO        VB DT     JJ   NN        NN IN   JJ       NNP  IN  DT       NN POS CD 
+
+-----------
+ 1 million students fromkindergarten to Grade 12 
+CD      CD      NNS               JJ TO    VB CD 
+
+-----------
+Ontario  's Education Minister Dave Johnson said students , parents andteachers will all be asked to discuss their opinions about uniformsbefore any final decisions are made 
+     NN POS       NNP      NNP  NNP     NNP  VBD      NNS ,     NNS         NNS   MD  DT VB   VBN TO      VB  PRP$      NNS    IN             RB  DT    JJ       NNS VBP  VBN 
+
+-----------
+`` Short of  a common uniform , there may be  a style of dress that may beappropriate within  a school , '' Johnson said on Tuesday 
+``   NNP IN DT     JJ      NN ,    EX  MD VB DT    NN IN    NN  WDT  MD            VB     IN DT     NN , ''     NNP  VBD IN     NNP 
+
+-----------
+`` There are manypeople in the province who feel that uniforms add  a tone of authorityand discipline to  a school and make for  a better learning environment 
+``    EX VBP        NNS IN  DT       NN  WP  VBP   IN      NNS VBP DT   NN IN           NN         NN TO DT     NN  CC   VB  IN DT    JJR       NN          NN 
+
+-----------
+`` 
+`` 
+
+-----------
+The common code of conduct has started with  a new safety policy thatrequires schools to phone parents to find out why absent students aremissing 
+ DT     JJ   NN IN      NN VBZ     VBN   IN DT  JJ     NN     NN          VBZ     NNS TO    NN     NNS TO   VB  RP WRB     JJ      NNS        VBG 
+
+-----------
+The code would also deal with acceptable language and set out thepunishment for students who smoke , destroy property , steal , distributehate material or carry  a weapon 
+ DT   NN    MD   RB   VB   IN         JJ       NN  CC VBN  RP            NN  IN      NNS  WP   VBP ,      JJ       NN ,    NN ,             VB       NN CC    VB DT     NN 
+
+-----------
+These are still up for debate 
+   DT VBP    RB IN  IN     NN 
+
+-----------
+Johnson believes stricter discipline at schools will produce studentswith better grades and young adults with responsible attitudes 
+    NNP      VBZ      JJR         NN IN     NNS   MD      VB           JJ    JJR    NNS  CC    JJ    NNS   IN          JJ       NNS 
+
+-----------
+`` If students are dressed in  a sloppy manner , that kind of habit anddress may flow over into their learning habits and make  it difficult toconduct proper teaching , ''  he said 
+`` IN      NNS VBP     VBN IN DT     JJ     NN ,   IN   NN IN    NN       NN  MD   VB   RP   IN  PRP$       JJ    NNS  CC   VB PRP        JJ        NN     IN       NN , '' PRP  VBD 
+
+-----------
+Ontario Premier Mike Harris , 54 , believes the province  's kids are notwhat they used to be 
+    NNP     NNP  NNP    NNP , CD ,      VBZ  DT       NN POS  NNS VBP      IN  PRP  VBD TO VB 
+
+-----------
+ He said  he remembers the times depicted in the1950s TV sitcom , Leave  it to Beaver 
+PRP  VBD PRP       VBZ  DT   NNS      VBN IN       JJ NN     NN ,   VBP PRP TO     VB 
+
+-----------
+Harris ,  a former teacher and parent to two young boys , said studentsneed to learn some respect 
+   NNP , DT     JJ      NN  CC     NN TO  CD    JJ  NNS ,  VBD           NN TO    VB   DT      NN 
+
+-----------
+`` They need to know what the line  is , ''  he said Tuesday 
+``  PRP  VBP TO   VB   WP  DT   NN VBZ , '' PRP  VBD     NNP 
+
+-----------
+`` What'sacceptable and what  is n't and that there are consequences for going overthat line 
+``               JJ  CC   WP VBZ  RB  CC   IN    EX VBP          NNS  IN   VBG       DT   NN 
+
+-----------
+`` 
+`` 
+
+-----------
+Swearing at  a teacher , for example , might mean suspension , Harris said 
+     VBG IN DT      NN ,  IN      NN ,    MD   VB         NN ,    NNP  VBD 
+
+-----------
+For violence , the punishment could be expulsion 
+ IN       NN ,  DT         NN    MD VB        NN 
+
+-----------
+Marshall Jarvis , head of the Ontario English Catholic Teachers'Association , said schools already have policies in place to handleunruly students 
+     NNP    NNP ,   NN IN  DT     NNP     NNP      NNP                  NNP ,  VBD     NNS      RB  VBP      NNS IN    NN TO           VB      NNS 
+
+-----------
+`` The school  is  a microcosm of the society around  it 
+``  DT     NN VBZ DT        NN IN  DT      NN     IN PRP 
+
+-----------
+There are studentswith serious concerns 
+   EX VBP           RB      JJ      NNS 
+
+-----------
+However to paint  a picture that that  's  a generaltrend across Ontario  is not something that   I 've witnessed , ''  he said 
+     RB TO    VB DT      NN   IN   DT VBZ DT           NN     IN     NNP VBZ  RB        NN   IN PRP VBP       VBN , '' PRP  VBD 
+
+-----------
+How long has  it been since Westerners crossed the world  's largest sand desert ? 
+WRB   RB VBZ PRP  VBN    IN        NNS     VBD  DT    NN POS     JJS   NN     NN . 
+
+-----------
+Who are the nomadic natives of Oman ? 
+ WP VBP  DT      JJ     NNS IN  NNP . 
+
+-----------
+What three countries will the Canadians cross through on their desert trek ? 
+  WP    CD       NNS   MD  DT      NNPS   VBP      IN IN  PRP$     NN   NN . 
+
+-----------
+What  is `` Arabian Sands '' about ? 
+  WP VBZ ``      JJ  NNPS ''    IN . 
+
+-----------
+What advice did Mr. Thesiger give to the Canadians ? 
+  WP     NN VBD NNP      NNP   VB TO  DT      NNPS . 
+
+-----------
+At what point did the group have to return to replace broken camel saddles ? 
+IN   WP    NN VBD  DT    NN  VBP TO     VB TO      VB     JJ    NN     NNS . 
+
+-----------
+What type of clothing are the Canadians wearing on their journey across the desert ? 
+  WP   NN IN       NN VBP  DT      NNPS     VBG IN  PRP$      NN     IN  DT     NN . 
+
+-----------
+When did Clarke climb Mount Everest ? 
+ WRB VBD    NNP    NN   NNP     NNP . 
+
+-----------
+Where will the trio  's journey end ? 
+  WRB   MD  DT   NN POS      NN  NN . 
+
+-----------
+Three Calgarians have found  a rather unusual way of leaving snow and icebehind 
+   CD       NNPS  VBP   VBN DT     RB      JJ  NN IN     VBG   JJ  CC        VB 
+
+-----------
+They set off this week on foot and by camel on  a grueling trek acrossthe burning Arabian desert 
+ PRP VBD  RP   DT   NN IN   NN  CC IN    NN IN DT      VBG   NN        NN     VBG     NNP     NN 
+
+-----------
+When they were still in Canada , planning their trip , they expected theywould feel lonely 
+ WRB  PRP  VBD    RB IN    NNP ,      VBG  PRP$   NN ,  PRP      VBD        JJ   VB     RB 
+
+-----------
+But after two days into the 1,200 kilometre journey , the caravan has won celebrity status among the native Bedouin people andgovernment officials of Oman 
+ CC    IN  CD  NNS   IN  DT    CD        NN      NN ,  DT      NN VBZ VBN        NN     NN    IN  DT     JJ     NNP    NNS            JJ       NNS IN  NNP 
+
+-----------
+Some have excitedly tagged along , saysexpedition leader Jamie Clarke 
+  DT  VBP        RB    VBN    RB ,             NN     NN   NNP    NNP 
+
+-----------
+Mr 
+NN 
+
+-----------
+Clarke  is making the trek with  his older brother Leigh and theirfriend Bruce Kirby 
+   NNP VBZ    VBG  DT   NN   IN PRP$   JJR      NN   NNP  CC          VB   NNP   NNP 
+
+-----------
+They have hired three guides 
+ PRP  VBP   VBN    CD    NNS 
+
+-----------
+They are now in theOmani city of Solalah on the Arabian Sea 
+ PRP VBP  RB IN       JJ   NN IN     NNP IN  DT     NNP NNP 
+
+-----------
+The group was forced to returnbriefly to replace some broken equipment , notably camel saddles , 40kilometres into the odyssey 
+ DT    NN VBD    VBN TO            VB TO      VB   DT     JJ        NN ,      RB    JJ     NNS ,           CD   IN  DT      NN 
+
+-----------
+The adventurers expect to travel for up to 55 days through the scorchingheat and towering dunes of Oman , Saudi Arabia and the United ArabEmirates 
+ DT         NNS    VBP TO     VB  IN RB TO CD  NNS      IN  DT            NN  CC      VBG   NNS IN  NNP ,   NNP    NNP  CC  DT    NNP         NNPS 
+
+-----------
+They are attempting to become the first Westerners in morethan 50 years to cross the Empty Quarter of Arabia , the world  's largestsand desert 
+ PRP VBP        VBG TO     VB  DT    JJ       NNPS IN        $ CD   NNS TO    VB  DT   NNP     NNP IN    NNP ,  DT    NN POS          NN     NN 
+
+-----------
+Mr 
+NN 
+
+-----------
+Clarke has adventure in  his blood 
+   NNP VBZ        NN IN PRP$    NN 
+
+-----------
+ He scaled Mount Everest in theHimalayas in 1997 
+PRP    VBD   NNP     NNP IN           NN IN   CD 
+
+-----------
+Now  he and  his companions are following  a famous route taken by Britishadventurer Sir Wilfred Thesiger in 1947 
+ RB PRP  CC PRP$        NNS VBP       VBG DT     JJ    NN   VBN IN               NNP NNP     NNP      NNP IN   CD 
+
+-----------
+They are journeying through theharsh and mostly uninhabited desert wearing the clothes and eating thefood that  is traditional for the nomadic Bedouin people 
+ PRP VBP        VBG      IN       NN  CC     RB          JJ     NN     VBG  DT     NNS  CC    VBG      NN  WDT VBZ          JJ  IN  DT      JJ     NNP    NNS 
+
+-----------
+``  It  's quite an event here to have  us crossing the desert insuch  a traditional fashion and in the footsteps of Thesiger , ''  Mr 
+`` PRP VBZ    RB DT    NN   RB TO   VB PRP      VBG  DT     NN    PDT DT          JJ      NN  CC IN  DT       NNS IN      NNP , '' NNP 
+
+-----------
+Clarke says 
+   NNP  VBZ 
+
+-----------
+`` So ,  our team can be anywhere from  our six normalmembers on up to quadruple that size at night when people walkinto camp or walk along with  us to cheer  us on 
+`` RB , PRP$   NN  MD VB       RB   IN PRP$  CD           NNS IN IN TO        VB   DT   NN IN    NN  WRB    NNS      VBP   NN CC   NN    IN   IN PRP TO    VB PRP IN 
+
+-----------
+`` 
+`` 
+
+-----------
+The site of the expedition  's camp Wednesday was theAyoon pools , north of Solalah , where temperatures during the dayrise to 45 degrees Celsius and fall at night to as low as 3degrees Celsius 
+ DT   NN IN  DT         NN POS   NN       NNP VBD       NN   NNS ,    NN IN     NNP ,   WRB          NNS     IN  DT      NN TO CD     NNS     NNP  CC   NN IN    NN TO RB  JJ IN       CD      NN 
+
+-----------
+The start of the trip was delayed because of technical problems withcommunications equipment for use in emergencies and because of stomachproblems after Clarke had  his first taste of the Bedouin delicacy ofgoat brains 
+ DT    NN IN  DT   NN VBD     VBN      IN IN        JJ      NNS                NNS        NN  IN  NN IN         NNS  CC      IN IN             NNS    IN    NNP VBD PRP$    JJ    NN IN  DT     NNP       NN     NN    NNS 
+
+-----------
+`` When the Bedouin cook , they are accustomed to using all ofthe animal 
+``  WRB  DT     NNP   NN ,  PRP VBP        VBN TO   VBG PDT   VBP     NN 
+
+-----------
+Every edible piece of the creature  is in the pot , among them are some of the unsavory stuff like brains , ''  Mr 
+   DT     JJ    NN IN  DT       NN VBZ IN  DT  NN ,    IN  PRP VBP   DT IN  DT       JJ    NN   IN    NNS , '' NNP 
+
+-----------
+Clarke says 
+   NNP  VBZ 
+
+-----------
+``   I  'm keen to try everything and sometimes  it justdoes n't agree 
+`` PRP VBP   JJ TO  VB         NN  CC       VBZ PRP      VBZ  RB    VB 
+
+-----------
+ A little nausea , throwing up and diarrheashould n't hold somebody back 
+DT     JJ     NN ,      VBG RP  CC             VB  RB   VB       NN   RB 
+
+-----------
+`` 
+`` 
+
+-----------
+Mr 
+NN 
+
+-----------
+Clarke and  his companions met with  Mr 
+   NNP  CC PRP$        NNS VBD   IN NNP 
+
+-----------
+Thesiger , who  is now 88 , in London , England on their way to the Middle East from Canada 
+     NNP ,  WP VBZ  RB CD , IN    NNP ,     NNP IN  PRP$  NN TO  DT    NNP  NNP   IN    NNP 
+
+-----------
+Mr 
+NN 
+
+-----------
+Thesiger  's book Arabian Sands told the story of  his 1947 trek 
+     NNP POS   NN     NNP   NNP  VBD  DT    NN IN PRP$   CD   NN 
+
+-----------
+Among  Mr 
+   IN NNP 
+
+-----------
+Thesiger  's words of advice for the trio was to takegreat care of the camels because their lives depend on thevery stubborn animals as transportation for themselves andtheir provisions 
+     NNP POS   NNS IN     NN  IN  DT   NN VBD TO        VB   NN IN  DT    NNS      IN  PRP$   NNS    VBP IN      NN       JJ     NNS IN             NN  IN        PRP      VBP        NNS 
+
+-----------
+``   I  do n't think  we really understood the magnitude of thatstatement , which  is so simple and obvious 
+`` PRP VBP  RB    VB PRP     RB        VBD  DT        NN IN            NN ,   WDT VBZ RB     JJ  CC      JJ 
+
+-----------
+Yet in the first two 
+ RB IN  DT    JJ  CD 
+
+-----------
+weeks of  our training here and the first two days of ourjourney ,  it  's incredible how powerful that statement  is , ''  Mr 
+  NNS IN PRP$       NN   RB  CC  DT    JJ  CD  NNS IN         NN , PRP VBZ         JJ WRB       JJ   DT        NN VBZ , '' NNP 
+
+-----------
+Clarke says 
+   NNP  VBZ 
+
+-----------
+From Solalah , the route will take the group through SaudiArabia and the trek will finish in Abu Dhabi 
+  IN     NNP ,  DT    NN   MD   VB  DT    NN      IN         NNP  CC  DT   NN   MD     VB IN NNP   NNP 
+
+-----------
+Along the way theparty must cross the Uruq al Shaiba range of mountainous dunes , pass by the quicksand of Umm al Samim ( Mother of Poison ) andhike across  a 185-mile stretch that has no water supply 
+   IN  DT  NN       NN   MD    VB  DT  NNP NN    NNP    NN IN          JJ   NNS ,   NN IN  DT        NN IN NNP NN   NNP (    NNP IN    NNP )     VBZ     IN DT       JJ      NN  WDT VBZ DT    NN     NN 
+
+-----------
+Where  is Todd McFarlane originally from ? 
+  WRB VBZ  NNP       NNP         RB   IN . 
+
+-----------
+How old  is Todd McFarlane ? 
+WRB  JJ VBZ  NNP       NNP . 
+
+-----------
+When did Todd McFarlane buy Mark McGwire  's 70th home run ball ? 
+ WRB VBD  NNP       NNP  VB  NNP     NNP POS   JJ   NN  NN   NN . 
+
+-----------
+How many historic baseballs does McFarlane now own ? 
+WRB   JJ       JJ       NNS  VBZ       NNP  RB  VB . 
+
+-----------
+What does McFarlane want in return for making the `` McFarlane Collection '' available to places like the National Baseball Hall of Fame ? 
+  WP  VBZ       NNP   VB IN     NN  IN    VBG  DT ``       NNP        NNP ''        JJ TO    NNS   IN  DT      NNP      NNP  NNP IN  NNP . 
+
+-----------
+Whose ball did McFarlane buy for about $ 250,000 Canadian dollars ? 
+  NNP   NN VBD       NNP  VB  IN    RB $      CD       JJ     NNS . 
+
+-----------
+How often  is there  a Toy Fair in New York ? 
+WRB    RB VBZ    RB DT NNP  NNP IN NNP  NNP . 
+
+-----------
+The Canadian man who spent more than $  4 million dollars to buy MarkMcGwire   s 70th home run ball finally identified himself yesterday 
+ DT       JJ  NN  WP   VBD  JJR   IN $ CD      CD     NNS TO  VB         NNP PRP   CD   NN  NN   RB      RB        VBN     PRP        NN 
+
+-----------
+Headmitted  he was  a `` psycho fan '' and  a `` sports geek 
+       VBD PRP VBD DT ``     JJ  NN ''  CC DT ``    NNS   NN 
+
+-----------
+`` 
+`` 
+
+-----------
+The mystery man  is Todd McFarlane , the creator of Spawn comic books , whosays  his purchase `` was  a mixture of business , charity andself-indulgence to the nth degree 
+ DT      NN  NN VBZ  NNP       NNP ,  DT      NN IN   NNP    JJ   NNS ,     VBZ PRP$       NN `` VBD DT      NN IN       NN ,      NN                 NN TO  DT  JJ     NN 
+
+-----------
+`` 
+`` 
+
+-----------
+`` Sports make you forget death , taxes and politics , and all the othergarbage that goes on in life , ''  he says 
+``    NNS  VBP PRP     VB    NN ,   NNS  CC      NNS ,  CC PDT  DT           NN  WDT  VBZ IN IN   NN , '' PRP  VBZ 
+
+-----------
+The 37-year-old Calgary native who now lives in Tempe , Arizona ,  is partowner of the NHL  s Edmonton Oilers 
+ DT          JJ     NNP     NN  WP  RB   VBZ IN   NNP ,     NNP , VBZ        NN IN  DT NNP JJ      NNP    NNP 
+
+-----------
+ He has  a company that makes actionfigures , and says the timing of  his announcement was tied to the yearlyToy Fair in New York 
+PRP VBZ DT      NN  WDT   VBZ           NNS ,  CC  VBZ  DT     NN IN PRP$           NN VBD  VBN TO  DT        NN  NNP IN NNP  NNP 
+
+-----------
+Mr 
+NN 
+
+-----------
+McFarlane , who paid $ 3,005,000   U 
+      NNP ,  WP  VBD $        CD NNP 
+
+-----------
+ S 
+NN 
+
+-----------
+for home run ball no 
+ IN   NN VBP   RB DT 
+
+-----------
+70 , hadnot seen the ball until Monday , when  he came to New York fresh from astay at the Baltimore Orioles fantasy camp in Florida 
+CD ,     NN  VBN  DT   NN    IN    NNP ,  WRB PRP  VBD TO NNP  NNP    JJ   IN    NN IN  DT       NNP     NNP      NN   NN IN     NNP 
+
+-----------
+ He now owns  9 historic baseballs 
+PRP  RB  VBZ CD       NN       NNS 
+
+-----------
+Yesterday they were displayed in frontof him in nine cases atop nine columns - white and grey for No 
+       NN  PRP  VBD       VBN IN      NN PRP IN   CD   NNS   JJ   CD     SYM :    JJ  CC   NN  IN DT 
+
+-----------
+70 , black for the others - with four burgundy velvet ropes separating themfrom the crowd and five men in blue security uniforms standing to theside 
+CD ,    JJ  IN  DT    NNS :   IN   CD       NN     NN   VBZ        VBG       IN  DT    NN  CC   CD NNS IN   JJ       NN      NNS      VBG TO      VB 
+
+-----------
+ He says  he would like to allow the National Baseball Hall of Fame inCooperstown , New York to show McGwire   s 70th home run ball at times 
+PRP  VBZ PRP    MD   VB TO    VB  DT      NNP      NNP  NNP IN  NNP           NNP , NNP  NNP TO   VB     NNP PRP   CD   NN  NN   NN IN   NNS 
+
+-----------
+Hewould make  it available to charities to raise money , and would letindividual major league teams display  it 
+    NNP   VB PRP        JJ TO       NNS TO    VB    NN ,  CC    MD            VB    JJ     NN   NNS     VBP PRP 
+
+-----------
+And what would  he like in return ? 
+ CC   WP    MD PRP   VB IN     NN . 
+
+-----------
+``   I   d like to be able to take 20 swings in every major league ball park , ''  he says 
+`` PRP VBP   IN TO VB   JJ TO   VB CD    NNS IN    DT    JJ     NN   NN   NN , '' PRP  VBZ 
+
+-----------
+Mr 
+NN 
+
+-----------
+McFarlane , who owns autographs from Babe Ruth and Lou Gehrig , sayspurchasing the ball was cheaper than buying  a sports team 
+      NNP ,  WP  VBZ         NN   IN  NNP  NNP  CC NNP    NNP ,            VBG  DT   NN VBD     JJR   IN    VBG DT    NNS   NN 
+
+-----------
+In all , McFarlane bought nine home run balls hit by McGwire and SammySosa , including McGwires , 63rd , 67th , 68th and 69th , and Sosa   s 33rd ( hisrecord20th in June ) , 61st and 66th 
+IN  DT ,       NNP    VBD   CD   NN  NN   NNS VBN IN     NNP  CC       NNP ,       VBG      NNS ,   CD ,   CD ,   CD  CC   CD ,  CC  NNP VBD   CD (            NN IN  NNP ) ,   CD  CC   CD 
+
+-----------
+Mr 
+NN 
+
+-----------
+McFarlane bought the ball at auction January 12 , paying more than $ 3million Canadian to Philip Ozersky 
+      NNP    VBD  DT   NN IN      NN     NNP CD ,    VBG  JJR   IN $       CD       JJ TO    NNP     NNP 
+
+-----------
+The research scientist caught theball September 27 at Busch Stadium in  St 
+ DT       NN        NN    VBD      JJ       NNP CD IN   NNP     NNP IN NNP 
+
+-----------
+Louis , Missouri 
+  NNP ,      NNP 
+
+-----------
+Sammy Sosa   s final home run of the season , No 
+  NNP  NNP VBD    JJ   NN  NN IN  DT     NN , DT 
+
+-----------
+66 , cost  Mr 
+CD ,   NN NNP 
+
+-----------
+McFarlaneabout $ 250,000 Canadian 
+           NNP $      CD       JJ 
+
+-----------
+All the others  he bought at the auction costunder $ 20,000 apiece 
+PDT  DT    NNS PRP    VBD IN  DT      NN        VB $     CD     RB 
+
+-----------
+``   I blew   my life savings on this , '' McFarlane says 
+`` PRP  VBP PRP$   NN     NNS IN   DT , ''       NNP  VBZ 
+
+-----------
+``   I   m not like theAmerican billionaire Donald Trump 
+`` PRP VBP  RB   IN          JJ          NN    NNP   NNP 
+
+-----------
+  I don  t have  a lot of cash 
+PRP VBP RB  VBP DT  NN IN   NN 
+
+-----------
+`` 
+`` 
+
+-----------
+The group of balls will be called The McFarlane Collection 
+ DT    NN IN   NNS   MD VB    VBN  DT       NNP        NNP 
+
+-----------
+`` Given that   I name all   my corporations after myself ,   I  ll name  it aftermyself , ''  he said 
+``   VBN   IN PRP  VBP  DT PRP$          NNS    IN    PRP , PRP VBP   NN PRP         PRP , '' PRP  VBD 
+
+-----------
+`` Better than The Guy Who Has More Money Than BrainsCollection 
+``    JJR   IN  DT NNP NNP VBZ  JJR   NNP  NNP              NNP 
+
+-----------
+`` Source : The Canadian Press , CBC News 
+``     NN :  DT       JJ   NNP , NNP  NNP 
+
+-----------
+What type of sports facility does Maple Leaf Gardens function as ? 
+  WP   NN IN    NNS       NN  VBZ   NNP  NNP     NNP       NN IN . 
+
+-----------
+When was the Maple Leaf Gardens built ? 
+ WRB VBD  DT   NNP  NNP     NNP   VBN . 
+
+-----------
+Where  is the Maple Leaf Gardens ? 
+  WRB VBZ  DT   NNP  NNP     NNP . 
+
+-----------
+How far did Brent Shuya and  his son have to drive just to reach Winnipeg ? 
+WRB  RB VBD   NNP   NNP  CC PRP$  NN  VBP TO    VB   RB TO    VB      NNP . 
+
+-----------
+When did Foster Hewitt start broadcasting Maple Leaf games on the radio ? 
+ WRB VBD    NNP    NNP   VBP          VBG   NNP  NNP   NNS IN  DT    NN . 
+
+-----------
+Where did Tommy and Ruth sit for the Leaf  's games at the Gardens ? 
+  WRB VBD   NNP  CC  NNP  NN  IN  DT  NNP POS   NNS IN  DT     NNP . 
+
+-----------
+Who was known as one of the toughest players in the NHL in the 1950s ? 
+ WP VBD   VBN IN  CD IN  DT      JJS     NNS IN  DT NNP IN  DT    CD . 
+
+-----------
+Maple Leaf Gardens 
+  NNP  NNP     NNP 
+
+-----------
+More than  a hockey rink ,  it  's  a culturalinstitution 
+ JJR   IN DT     JJ   NN , PRP VBZ DT                  NN 
+
+-----------
+ It may well be the strongest link between Toronto and therest of Canada 
+PRP  MD   RB VB  DT       JJS   NN      IN     NNP  CC     JJS IN    NNP 
+
+-----------
+And this weekend , the Gardens are losing the MapleLeafs 
+ CC   DT      NN ,  DT     NNS VBP    VBG  DT        NNP 
+
+-----------
+For thousands of people from coast to coast to coast , thisSaturday  is  a special hockey night in Canada 
+ IN       NNS IN    NNS   IN    NN TO    NN TO    NN ,           NN VBZ DT      JJ     NN    NN IN    NNP 
+
+-----------
+ It will be the last timethe Leafs take to the ice at Maple Leaf Gardens 
+PRP   MD VB  DT   JJ      JJ   NNP   NN TO  DT  NN IN   NNP  NNP     NNP 
+
+-----------
+With the end in sight , the hype -- and mourning --  is beginning inearnest 
+  IN  DT  NN IN    NN ,  DT   NN  :  CC       NN  : VBZ       VBG       JJS 
+
+-----------
+More than one building in one city , the Gardens has long been  a focalpoint for Canadian culture -- at least for anyone who has ever strappedon the blades 
+ JJR   IN  CD       NN IN  CD   NN ,  DT     NNP VBZ   RB  VBN DT         NN  IN       JJ      NN  : IN   JJS  IN     NN  WP VBZ   RB        VBN  DT    NNS 
+
+-----------
+For decades , NHL games were broadcast into living rooms From PlumCoulee , Manitoba to Peggy  's Cove , Nova Scotia , and beyond from one oftwo places -- the Gardens or the Montreal Forum 
+ IN     NNS , NNP   NNS  VBD       VBN   IN     NN   NNS   IN        NNP ,      NNP TO   NNP POS  NNP ,  NNP    NNP ,  CC     IN   IN  CD    NN    NNS  :  DT    NNPS CC  DT      NNP   NNP 
+
+-----------
+With the end in sight , fond memories are starting to flow 
+  IN  DT  NN IN    NN ,   NN      NNS VBP      VBG TO   VB 
+
+-----------
+In recent weeks , for example , hockey fans from Western Canada have beenmaking the trek to Toronto to see one last game at the Gardens 
+IN     JJ   NNS ,  IN      NN ,     JJ  NNS   IN      JJ    NNP  VBP        VBG  DT   NN TO     NNP TO  VB  CD   JJ   NN IN  DT     NNS 
+
+-----------
+Two weeks ago Brent Shuya and  his son made the 3-and-a-half hour drivefrom their home in Russell , Manitoba to Winnipeg 
+ CD   NNS  RB   NNP   NNP  CC PRP$  NN  VBD  DT           JJ   NN        IN  PRP$   NN IN     NNP ,      NNP TO       VB 
+
+-----------
+There they hopped on an airplane for another two hour ride toToronto 
+   EX  PRP    VBD IN DT       NN  IN      DT  CD   NN   NN        NN 
+
+-----------
+The reason : to see their one and only hockey gameat Maple Leaf Gardens 
+ DT     NN : TO  VB  PRP$  CD  CC   RB     JJ     NN   NNP  NNP     NNP 
+
+-----------
+Brent says , ``  it was pretty important to  me ,   I wanted   my son to go andvisit theGardens , seeing how they are not going to be playing there anymore 
+  NNP  VBZ , `` PRP VBD     RB        JJ TO PRP , PRP    VBD PRP$  NN TO VB       NN        NNS ,    VBG WRB  PRP VBP  RB   VBG TO VB     VBG    RB      RB 
+
+-----------
+  I 've always been  a Leaf fan probably since   I was five or six years oldand   I guess   I always will be whether they win or lose , and  it wasjust nice to see them play in their old home 
+PRP VBP     RB  VBN DT  NNP  NN       RB    IN PRP VBD   CD CC  CD   NNS    VBP PRP   VBP PRP     RB   MD VB      IN  PRP VBP CC  VBP ,  CC PRP      JJ   JJ TO  VB  PRP   VB IN  PRP$  JJ   NN 
+
+-----------
+`` 
+`` 
+
+-----------
+But Brent Shuya  is by no means the only western hockey fan who has madeone final pilgrimage to Maple Leaf Gardens 
+ CC   NNP   NNP VBZ IN DT   VBZ  DT   JJ      JJ     NN  NN  WP VBZ     VBN    JJ         NN TO   NNP  NNP     NNP 
+
+-----------
+On  his trip  he met otherfansfrom the Prairies doing the same thing 
+IN PRP$   NN PRP VBD            IN  DT     NNPS   VBG  DT   JJ    NN 
+
+-----------
+There  is no one explanationas to why some fans outside Toronto feel such  a strong attachment tothe Leafs and the building in which they play , although radio andtelevision have had much to do with  it 
+   EX VBZ DT  NN           VBZ TO WRB   DT  NNS      IN     NNP   NN  PDT DT     JJ         NN    NN   NNP  CC  DT       NN IN   WDT  PRP  VBP ,       IN    NN            NN  VBP VBN   JJ TO VB   IN PRP 
+
+-----------
+Fans like Winnipeg businessman Jeff Thompson will be at the final gameon Saturday 
+ NNS   IN      NNP          NN  NNP      NNP   MD VB IN  DT    JJ     NN      NNP 
+
+-----------
+`` The Gardens and the Montreal Forum were both places that althoughwe were never there , as kids growing up  we were there , ''  he says 
+``  DT     NNP  CC  DT      NNP   NNP  VBD   DT    NNS  WDT        VBP  VBD    RB    RB , IN  NNS     VBG RP PRP  VBD    RB , '' PRP  VBZ 
+
+-----------
+`` Theycameinto  our house every weekend 
+``           VB PRP$    NN    DT      NN 
+
+-----------
+ It became larger than life becausewe had grown up watching  it '' 
+PRP    VBD    JJR   IN   NN        NN VBD   VBN RP      VBG PRP '' 
+
+-----------
+Winnipeger Bill Juzda was known as one of the toughest players in theNHLwhen  he played for the Leafs in the 1950s 
+       NNP  NNP   NNP VBD   VBN IN  CD IN  DT      JJS     NNS IN         NN PRP    VBD  IN  DT   NNP IN  DT   NNS 
+
+-----------
+Mr 
+NN 
+
+-----------
+Juzda expects many ofthoseat the final game Saturday will feel pretty much the way hedid when  he first walked into Maple Leaf Gardens nearly 50 years ago 
+  NNP     VBZ   JJ       VBP  DT    JJ   NN      NNP   MD   VB     RB   JJ  DT  NN    NN  WRB PRP    RB    VBD   IN   NNP  NNP     NNP     RB CD   NNS  RB 
+
+-----------
+ He says , `` you walked in and you seen all those pictures in the lobbyand everything else 
+PRP  VBZ , `` PRP    VBD IN  CC PRP  VBN PDT    DT      NNS IN  DT       NN         NN   RB 
+
+-----------
+And you stood outside and said , hey ,   I used to listen to Foster Hewitt on the radio and boy  am Ilucky to be here 
+ CC PRP   VBD      JJ  CC  VBD ,  NN , PRP  VBD TO     VB TO    NNP    NNP IN  DT    NN  CC  NN VBP    NNP TO VB   RB 
+
+-----------
+`` 
+`` 
+
+-----------
+Foster Hewitt was the Maple Leafs   ' radio broadcaster for decades 
+   NNP    NNP VBD  DT   NNP   NNP POS    NN          NN  IN     NNS 
+
+-----------
+Hisvoice was known by Canadians from coast to coast 
+     NNP VBD   VBN IN       NNS   IN    NN TO    VB 
+
+-----------
+ He first broadcast ahockey game on the radio in March , 1923 
+PRP    RB       VBD      JJ   NN IN  DT    NN IN   NNP ,   CD 
+
+-----------
+Decades later  he became theLeafs  ' first television announcer 
+    NNS    RB PRP    VBD       NN ''    JJ         NN        NN 
+
+-----------
+In Toronto , many residents are sad to see the Leafs abandon the Gardensfor the new Air Canada Centre 
+IN     NNP ,   JJ       NNS VBP  JJ TO  VB  DT   NNP     VBZ  DT        NNP  DT  JJ NNP    NNP    NNP 
+
+-----------
+One fan  is Tommy Gaston 
+ CD  NN VBZ   NNP    NNP 
+
+-----------
+For almost 60 years , the 82-year-old and hiswife Ruth were in their seats for Leafs home games -- Grey Section West , Seats 13 and 14 
+ IN     RB CD   NNS ,  DT          JJ  CC      JJ  NNP  VBD IN  PRP$   NNS  IN   NNP   NN   NNS  :  NNP     NNP  NNP ,   NNP CD  CC CD 
+
+-----------
+After Saturday , the Gastons will have just their fond memories of theGardens , built in 1931 
+   IN      NNP ,  DT     NNP   MD   VB   RB  PRP$   NN      NNS IN        NNS ,   VBN IN   CD 
+
+-----------
+But Gaston wo n't have trouble preserving  his memories 
+ CC    NNP MD  RB   VB      NN        VBG PRP$      NNS 
+
+-----------
+ A self-describedpat rack ,  he has collected enough memorabilia to stock  his basement -- and donate the overflow to the Hockey Hall of Fame 
+DT                JJ   NN , PRP VBZ       VBN     RB         NNS TO    NN PRP$       NN  :  CC     VB  DT       NN TO  DT    NNP  NNP IN  NNP 
+
+-----------
+What happened in Europe and England when Geoffrey was nine years old ? 
+  WP      VBD IN    NNP  CC     NNP  WRB      NNP VBD   CD   NNS  JJ . 
+
+-----------
+Where did Geoffrey Dewis live before  he was nine ? 
+  WRB VBD      NNP   NNP   NN     IN PRP VBD   CD . 
+
+-----------
+Where did Geoffrey Dewis live before  he was nine ? 
+  WRB VBD      NNP   NNP   NN     IN PRP VBD   CD . 
+
+-----------
+Why did CBC produce `` Canada Calling '' ? 
+WRB VBD NNP      VB ``    NNP     NNP '' . 
+
+-----------
+When did Geoffrey Dewis die ? 
+ WRB VBD      NNP   NNP  NN . 
+
+-----------
+Who published Dewis  's obituary ? 
+ WP       VBD   NNP POS       JJ . 
+
+-----------
+This week the National Post newspaper published an obituary of GeoffreyDewis ,  a man who died in Vancouver at the age of 69 
+  DT   NN  DT      NNP  NNP        NN       VBD DT       NN IN           NNP , DT  NN  WP  VBD IN       NNP IN  DT  NN IN CD 
+
+-----------
+Mr 
+NN 
+
+-----------
+Dewis was not afamous person himself , but  he was part of  a remarkable event in Canadianhistory 
+  NNP VBD  RB      JJ     NN     PRP ,  CC PRP VBD   NN IN DT         JJ    NN IN             NNP 
+
+-----------
+In 1939 , the Second World War began in Europe and England 
+IN   CD ,  DT     JJ   NNP NNP   VBD IN    NNP  CC     NNP 
+
+-----------
+GeoffreyDewis was then nine 
+          NNP VBD   RB   CD 
+
+-----------
+ His parents feared that Geoffrey and  his oldersister would be killed in the Nazi bombing of England 
+PRP$     NNS    VBD   IN      NNP  CC PRP$          NN    MD VB    VBN IN  DT  NNP      NN IN     NNP 
+
+-----------
+But there was away to keep the kids safe 
+ CC    EX VBD   RB TO   VB  DT  NNS   JJ 
+
+-----------
+They took advantage of the Commonwealth childevacuation program 
+ PRP  VBD        NN IN  DT          NNP              NN      NN 
+
+-----------
+Over 2,600 British children were sent to live withfamilies in other Commonwealth countries where the war was not raging 
+  IN    CD      JJ      NNS  VBD  VBN TO   VB          NNS IN    JJ          NNP       NNS   WRB  DT  NN VBD  RB    VBG 
+
+-----------
+Over half of those children -- 1530 of them -- came to live in Canada asguests 
+  IN   NN IN    DT      NNS  :   CD IN  PRP  :  VBD TO   VB IN    NNP      NNS 
+
+-----------
+Some , like Geoffrey Dewis , returned to Canada to spend the restof their lives 
+  DT ,   IN      NNP   NNP ,      VBD TO    NNP TO    VB  DT     NN  PRP$   NNS 
+
+-----------
+During the war , the trip to Canada was not easy 
+    IN  DT  NN ,  DT   NN TO    NNP VBD  RB   JJ 
+
+-----------
+German submarineslurked in the North Atlantic sea where the boats traveled 
+    JJ              VBD IN  DT   NNP      NNP  NN   WRB  DT   NNS      VBD 
+
+-----------
+They firedtorpedoes at British and Allied ships 
+ PRP            VBP IN     NNP  CC    NNP   NNS 
+
+-----------
+Geoffrey Dewis  's ship was thelast to arrive safely at  its destination 
+     NNP   NNP POS   NN VBD     VBN TO     VB     RB IN PRP$          NN 
+
+-----------
+The next boatload of Britishkids , on  a ship called The City of Benares , was torpedoed and sank 
+ DT   JJ       NN IN         NNP , IN DT   NN    VBD  DT  NNP IN     NNP , VBD       VBN  CC   VB 
+
+-----------
+Seventy-seven children on board died 
+           JJ      NNS IN    NN  VBD 
+
+-----------
+Tragically , that was the end ofthe `` guest child '' program 
+        RB ,   DT VBD  DT  NN    NN ``   JJS    NN ''      NN 
+
+-----------
+During their stay in Canada , CBC Radio produced  a program called `` CanadaCalling '' so that the British kids who were separated from their familiescould speak to their parents and friends back home over the airwaves 
+    IN  PRP$   NN IN    NNP , NNP   NNP      VBD DT      NN    VBN ``           NNP '' IN   IN  DT      JJ  NNS  WP  VBD       VBN   IN  PRP$            JJ    NN TO  PRP$     NNS  CC     VBZ   RB   NN   IN  DT      NNS 
+
+-----------
+Who  is Abdullah Ocalan ? 
+ WP VBZ      NNP    NNP . 
+
+-----------
+What  do the Kurdish separatists want ? 
+  WP VBP  DT     NNP         NNS  VBP . 
+
+-----------
+Why did Kurds all over the world hold violent demonstrations ? 
+WRB VBD   NNP  DT   IN  DT    NN  VBP      JJ            NNS . 
+
+-----------
+How did an Ottawa police officer get burned ? 
+WRB VBD DT    NNP    NNS      NN  NN    VBN . 
+
+-----------
+What triggered some Kurds to try to occupy the Israeli consulate in Berlin ? 
+  WP       VBD   DT   NNS TO  VB TO     VB  DT     NNP        NN IN    NNP . 
+
+-----------
+How many protesters were injured at the Israeli consulate in Berlin ? 
+WRB   JJ        NNS  VBD     VBN IN  DT     NNP        NN IN    NNP . 
+
+-----------
+What did Chancellor Schroeder tell the Kurds in Germany ? 
+  WP VBD        NNP       NNP  VBP  DT   NNP IN     NNP . 
+
+-----------
+When did Ocalan start living outside of Turkey ? 
+ WRB VBD    NNP    VB    VBG      IN IN    NNP . 
+
+-----------
+Why has Turkey sent soldiers into Northern Iraq ? 
+WRB VBZ    VBN   JJ      NNS   IN      NNP  NNP . 
+
+-----------
+Violent demonstrations by angry Kurds took place around the worldyesterday following the arrest of rebel Kurdish leader Abdullah Ocalan 
+     JJ            NNS IN    JJ   NNP  VBD    NN     IN  DT             NN       VBG  DT     NN IN    NN     NNP     NN      NNP    NNP 
+
+-----------
+Ocalan leads  a separatist group that has fought for the creation of anindependent Kurdistan 
+   NNP   VBZ DT         NN    NN  WDT VBZ    VBN  IN  DT       NN IN            JJ       NNP 
+
+-----------
+Kurds live in lands controlled by Turkey , Iran , Iraq and Syria 
+  NNS  VBP IN   NNS        VBN IN    NNP ,  NNP ,  NNP  CC   NNP 
+
+-----------
+An estimated 20,000 people have died in the fighting ofthe past 15 years 
+DT        JJ     CD    NNS  VBP  VBN IN  DT      VBG    NN   JJ CD   NNS 
+
+-----------
+In London , England , the Greek embassy was temporarily occupied , andhundreds of Kurds are continuing to protest outside the embassy 
+IN    NNP ,     NNP ,  DT    JJ      NN VBD          RB      VBN ,         NNS IN   NNS VBP        VBG TO      VB      IN  DT      NN 
+
+-----------
+In Ottawa on Wednesday , Kurdish demonstrators hurled  a gasoline bomb ata police line , setting one officer on fire 
+IN    NNP IN       NNP ,     NNP           NNS    VBD DT       NN   NN  JJ     NN   NN ,     VBG  CD      NN IN   NN 
+
+-----------
+The group of 400 protesterswas fighting with  a riot squad outside the Turkish Embassy 
+ DT    NN IN  CD           NNS      VBG   IN DT   NN    NN      IN  DT      JJ     NNP 
+
+-----------
+In all , 10police officers were injured in the fighting 
+IN  DT ,       CD      NNS  VBD     VBN IN  DT       NN 
+
+-----------
+In Greece , the foreign minister , the interior minister and the publicorder minister handed in their resignations because they failed toprotect the Kurdish rebel leader 
+IN    NNP ,  DT      JJ       NN ,  DT       JJ       NN  CC  DT          NN       NN    VBN IN  PRP$          NNS      IN  PRP    VBD       VBP  DT     NNP    NN     NN 
+
+-----------
+Ocalan was captured earlier this week while hiding in the Greek embassyin Kenya 
+    NN VBD      VBN     RBR   DT   NN    IN    VBG IN  DT    JJ        NN   NNP 
+
+-----------
+Turkey considers Ocalan an enemy because  he  's been fighting an ongoingbattle for  a separate Kurdish homeland 
+   NNP       NNS    NNP DT    NN      IN PRP VBZ  VBN      VBG DT            NN  IN DT       JJ     NNP       NN 
+
+-----------
+ He could face the death penalty 
+PRP    MD   VB  DT    NN      NN 
+
+-----------
+Ocalan  's supporters have been protesting at Turkish , Greek and Israeliembassies in Europe and Canada 
+   NNP POS        NNS  VBP  VBN        VBG IN     NNP ,   NNP  CC             NNPS IN    NNP  CC    NNP 
+
+-----------
+On Wednesday , after rumours that Israel helped Turkish securities forcescapture Ocalan , angry Kurds tried to occupy the Israeli consulate inBerlin 
+IN       NNP ,    IN     NNS   IN    NNP    VBD      VB        NNS            NN    NNP ,    JJ   NNP   VBD TO     VB  DT     NNP        NN       NN 
+
+-----------
+Israeli guards opened fire on the protesters , killing three andinjuring 16 others 
+     JJ    NNS    VBN   NN IN  DT        NNS ,     VBG    CD         VBG CD    NNS 
+
+-----------
+Israeli Prime Minister Benjamin Netanyahu  is trying to calm Kurdishanger 
+     JJ   NNP      NNP      NNP       NNP VBZ    VBG TO   VB          NNP 
+
+-----------
+But  he defends the killings and says  his nation had nothing to dowith Ocalan  's arrest 
+ CC PRP     VBZ  DT      NNS  CC  VBZ PRP$     NN VBD      NN TO     VB    NNP POS     NN 
+
+-----------
+In Germany , Chancellor Gerhard Schroeder told the Kurds they must obeyGerman laws and stop violent protests -- or they will be thrown out ofthe country 
+IN     NNP ,        NNP     NNP       NNP  VBD  DT   NNP  PRP   MD         VB  NNS  CC   VB      NN      NNS  : CC  PRP   MD VB    VBN  RP    JJ      NN 
+
+-----------
+In Turkey , police have reportedly arrested hundreds of supporters of themain Kurdish party , while up to 4,000 soldiers have been sent intoNorthern Iraq to attack Kurdish rebel bases 
+IN    NNP ,    NNS  VBP         RB      VBN      NNS IN        NNS IN      NN     NNP    NN ,    IN IN TO    CD      NNS  VBP  VBN  VBN           JJ  NNP TO     VB     NNP    NN   NNS 
+
+-----------
+Ocalan has lived outside Turkey since 1980 
+    NN VBZ   VBN      IN    NNP    IN   CD 
+
+-----------
+In recent months , Turkey hasexerted diplomatic pressure on European countries to hand the rebelleader over for trial 
+IN     JJ    NNS ,    NNP        VBD         JJ       NN IN       JJ       NNS TO   NN  DT          NN   IN  IN    NN 
+
+-----------
+Syria , Lebanon , Russia , the Netherlands andItaly , among others , had expelled him 
+  NNP ,     NNP ,    NNP ,  DT         NNP       NN ,    IN    NNS , VBD      VBN PRP 
+
+-----------
+How many McDonald  's restaurants are there in North America ? 
+WRB   JJ      NNP POS         NNS VBP    RB IN   NNP     NNP . 
+
+-----------
+Where  is the only unionized McDonald  's in North America ? 
+  WRB VBZ  DT   JJ        JJ      NNP POS IN   NNP     NNP . 
+
+-----------
+When was the McDonald  's unionized ? 
+ WRB VBD  DT      NNP POS        JJ . 
+
+-----------
+What happened when the Teamsters tried to unionize  a McDonald  's in Montreal ? 
+  WP      VBD  WRB  DT       NNP   VBD TO       VB DT      NNP POS IN      NNP . 
+
+-----------
+According to their Quebec office , how did McDonald  's feel about the vote to unionize the Montreal franchise ? 
+      VBG TO  PRP$    NNP     NN , WRB VBD      NNP POS   NN    IN  DT   NN TO       VB  DT      NNP        NN . 
+
+-----------
+Why did the St-Hubert McDonald  's not get unionized ? 
+WRB VBD  DT       NNP      NNP POS  RB  VB       VBN . 
+
+-----------
+Workers at  a McDonald  's restaurant in Montreal , Quebec have votedagainst becoming members of  a trade union 
+    NNS IN DT      NNP POS         NN IN      NNP ,    NNP  VBP          VBN      VBG     NNS IN DT    NN    NN 
+
+-----------
+There  is only one unionized McDonald  's restaurant in North America 
+   EX VBZ   RB  CD        JJ      NNP POS         NN IN   NNP     NNP 
+
+-----------
+Itis in Squamish , British Columbia 
+  NN IN      NNP ,     NNP      NNP 
+
+-----------
+About 90 per cent of the outlet  's 55 workers voted against unionizing 
+   IN CD  IN   NN IN  DT     NN POS CD     NNS   VBD      IN        VBG 
+
+-----------
+The International Brotherhood of Teamsters had been trying to organizethe workers for 16 months 
+ DT           NNP         NNP IN       NNP VBD  VBN    VBG TO          VB     NNS  IN CD    NNS 
+
+-----------
+Rejean Lavigne , head of the Teamsters local behind the campaign , said almost all of the original employees who signed union cards in1997 had quit and the new ones , some as young as 16 , did n't want aunion 
+    JJ     NNP ,   NN IN  DT       NNP    JJ     IN  DT       NN ,  VBD     RB  DT IN  DT       JJ       NNS  WP    VBD    NN   NNS    VBP VBD   NN  CC  DT  JJ  NNS ,   DT RB    JJ IN CD , VBD  RB   VB     NN 
+
+-----------
+`` If  we lose , well ,  we ca n't do anything more , '' Lavigne saidbefore the vote was tallied 
+`` IN PRP  VBP ,   RB , PRP MD  RB VB       NN  JJR , ''     NNP        VBD  DT   NN VBD     VBN 
+
+-----------
+`` If the employees  do n't want  us there , whatare you going todo ? '' 
+`` IN  DT       NNS VBP  RB   VB PRP    RB ,      NN PRP   VBG   VB . '' 
+
+-----------
+ A statement from McDonald  's Quebec regional office welcomed the vote 
+DT        NN   IN      NNP POS    NNP       JJ     NN      VBD  DT   NN 
+
+-----------
+``  We believe that giving all the employees in the outlet the opportunityto determine the outcome of this matter was the fairest and mostresponsible way to resolve the question of union representation , '' thestatement said 
+`` PRP     VBP   IN    VBG PDT  DT       NNS IN  DT     NN  DT            JJ        NN  DT      NN IN   DT     NN VBD  DT     JJS  CC              JJ  NN TO      VB  DT       NN IN    NN             NN , ''           NN  VBD 
+
+-----------
+The McDonald  's in Squamish became the first unionized outletamong the chain  's more than 15,000 outlets in North America when theCanadian Auto Workers made  a breakthrough last August 
+ DT      NNP POS IN       JJ    VBD  DT    JJ        JJ          IN  DT    NN POS  JJR   IN     CD     NNS IN   NNP     NNP  WRB          JJ  NNP    NNPS  VBD DT           NN   JJ    NNP 
+
+-----------
+Rejection of the union in Montreal was the second failure for theTeamsters against the chain 
+       NN IN  DT    NN IN      NNP VBD  DT     JJ      NN  IN          NNS      IN  DT    NN 
+
+-----------
+Last year ,  a franchise in suburbanSt-Hubert , Quebec shut down just as the union was about to be certified 
+  JJ   NN , DT        NN IN                JJ ,    NNP  VBD   RB   RB IN  DT    NN VBD    IN TO VB       VBN 
+
+-----------
+The latest loss means an end to  a campaign begun last year tounionize at least one McDonald  's in every major city across Canada , which has so far cost the Teamsters about $ 100,000 
+ DT    JJS   NN   VBZ DT  NN TO DT       NN   VBN   JJ   NN         NN IN   JJS  CD      NNP POS IN    DT    JJ   NN     IN    NNP ,   WDT VBZ RB  RB   NN  DT      NNPS    IN $      CD 
+
+-----------
+Union officials in Quebec say lengthy delays used by employers to fightcertification played into McDonald  's hands by discouraging  its youngemployees 
+  NNP       NNS IN    NNP VBP      JJ    NNS  VBN IN       NNS TO                 VB    VBN   IN      NNP POS   NNS IN          VBG PRP$            NNS 
+
+-----------
+``  We received petitions saying thank you for the good work but  we don'tneed you any more , '' Lavigne said 
+`` PRP      VBD       NNS    VBG    NN PRP  IN  DT   JJ   NN  CC PRP       VBP PRP  DT  JJR , ''     NNP  VBD 
+
+-----------
+`` The workers fired  us in effect 
+``  DT     NNS   VBD PRP IN     NN 
+
+-----------
+`` 
+`` 
+
+-----------
+Who was the master of ceremonies for this year  's Grammy Awards ? 
+ WP VBD  DT     NN IN        NNS  IN   DT   NN POS    NNP    NNP . 
+
+-----------
+What type of music does Lauryn Hill make ? 
+  WP   NN IN    NN  VBZ    NNP  NNP   VB . 
+
+-----------
+How many children does Lauryn Hill have ? 
+WRB   JJ      NNS  VBZ    NNP  NNP   VB . 
+
+-----------
+Why did Jay-Z not attend the Grammy Awards ? 
+WRB VBD   NNP  RB     VB  DT    NNP    NNP . 
+
+-----------
+Where  is Alanis Morissette from ? 
+  WRB VBZ    NNP        NNP   IN . 
+
+-----------
+What movie was the song ``   My Heart Will  Go On '' in ? 
+  WP    NN VBD  DT   NN `` PRP$   NNP  NNP NNP IN '' IN . 
+
+-----------
+Who wrote ``   My Heart Will  Go On '' ? 
+ WP   VBD `` PRP$   NNP  NNP NNP IN '' . 
+
+-----------
+When did Madonna enter the music business ? 
+ WRB VBD     NNP    VB  DT    NN       NN . 
+
+-----------
+Who  is Will Smith  's wife ? 
+ WP VBZ  NNP   NNP POS   NN . 
+
+-----------
+What other form of show business does Will Smith participate in besides music ? 
+  WP    JJ   NN IN   NN       NN  VBZ  NNP   NNP          VB IN     NNS    NN . 
+
+-----------
+Canadian female music stars were among the big winners at last night'sGrammy Awards show in Los Angeles , California 
+      JJ     NN    NN   NNS  VBD    IN  DT  JJ     NNS IN   JJ            JJ    NNP   NN IN NNP     NNP ,        NNP 
+
+-----------
+Celine Dion , Shania Twain , and Alanis Morissette picked up two grammysapiece 
+   NNP  NNP ,    NNP   NNP ,  CC    NNP        NNP    VBD RP  CD            NN 
+
+-----------
+Among the awards ,  Ms 
+   IN  DT    NNS , NNP 
+
+-----------
+Dion won record of the year for ``  My Heart Will GoOn 
+ NNP VBD     NN IN  DT   NN  IN `` NNP   NNP  NNP  NNP 
+
+-----------
+`` But American hip-hop artist Lauryn Hill , beat them all 
+``  CC       JJ      JJ     NN    NNP  NNP ,   VB  PRP  DT 
+
+-----------
+She tookhome five Grammys , including album of the year 
+PRP      VBD   CD     NNP ,       VBG    NN IN  DT   NN 
+
+-----------
+Ms 
+NN 
+
+-----------
+Hill broke Carole King  's 1971 record for most awards won by  a femaleartist in  a single night 
+ NNP   VBD    NNP  NNP POS   CD     NN  IN  JJS    NNS VBN IN DT           NN IN DT     JJ    NN 
+
+-----------
+`` This  is crazy because this  is hip-hop music , ''  Ms 
+``   DT VBZ    JJ      IN   DT VBZ      JJ    NN , '' NNP 
+
+-----------
+Hill said inaccepting the first best-album Grammy for  a hip-hop artist as theusually conservative awards show took  its biggest step out of themainstream 
+ NNP  VBD         VBG  DT    JJ         JJ    NNP  IN DT      JJ     NN IN         RB           JJ    NNS  VBP  VBD PRP$     JJS   NN  IN IN            NN 
+
+-----------
+Rap has been eclipsing rock as the dominant musical form for youngpeople , and routinely produces best sellers 
+NNP VBZ  VBN       VBG   NN IN  DT       JJ      JJ   NN  IN          NN ,  CC        RB      VBZ  JJS     NNS 
+
+-----------
+Much of the credit goes toMs 
+  JJ IN  DT     NN  VBZ   VB 
+
+-----------
+Hill ,  a 23-year-old mother of two whose music mixes rap and   R andtouches on family and political issues 
+ NNP , DT          JJ     NN IN  CD   WP$    NN   NNS  NN  CC NNP        NNS IN     NN  CC        JJ    NNS 
+
+-----------
+She had won two earlier Grammyswith the Fugees 
+PRP VBD VBN  CD     RBR         NNP  DT    NNP 
+
+-----------
+Shania Twain , Stevie Wonder , the Dixie Chicks and the Brian SetzerOrchestra each were double winners Wednesday night 
+   NNP   NNP ,    NNP    NNP ,  DT   NNP    NNP  CC  DT   NNP             NNP   DT  VBD     JJ     NNS       NNP    NN 
+
+-----------
+Sheryl Crow won for best rock album , and Madonna also picked up herfirst musical Grammy , including best pop album for  her excursion intoelectronica , `` Ray of Light '' 
+   NNP  NNP VBD  IN  JJS   NN    NN ,  CC     NNP   RB    VBD RP       JJ      JJ    NNP ,       VBG  JJS  NN    NN  IN PRP$        NN              NN , `` NNP IN   NNP '' 
+
+-----------
+She also won best dance recording and bestshort form music video 
+PRP   RB VBD  JJS    NN        NN  CC        NN   NN    NN    NN 
+
+-----------
+``   I 've been in the music business 16 years 
+`` PRP VBP  VBN IN  DT    NN       NN CD   NNS 
+
+-----------
+ It was worth the wait , '' Madonna said backstage 
+PRP VBD    JJ  DT   NN , ''     NNP  VBD        NN 
+
+-----------
+After 51 years of performing , Patti Page won  her first Grammy , for traditional pop vocal performance for `` Live at Carnegie Hall -- The 50th Anniversary Concert '' 
+   IN CD   NNS IN         NN ,   NNP  NNP VBD PRP$    JJ    NNP ,  IN          JJ  NN    JJ          NN  IN ``  NNP IN      NNP  NNP  :  DT   JJ         NNP     NNP '' 
+
+-----------
+She joked backstage that familymembers once asked what  her grandchildren should call  her 
+PRP   VBD        NN   IN           NNS   RB   VBD   WP PRP$            NN     MD   VB PRP$ 
+
+-----------
+`` Grammy 
+``     VB 
+
+-----------
+Because   I 'll never get one , '' she recalled tellingthem 
+     IN PRP  MD    RB  VB  CD , '' PRP      VBD          NN 
+
+-----------
+`` Now they can call  me grandma 
+``  RB  PRP  MD   VB PRP      VB 
+
+-----------
+`` 
+`` 
+
+-----------
+`` Titanic '' sailed on as the ballad ``   My Heart Will  Go On '' wonfour Grammys , including best female pop vocal for Celine Dion andbest song written for  a motion picture or television 
+``      JJ ''    VBN IN IN  DT     NN `` PRP$   NNP  NNP NNP IN ''      NN     NNP ,       VBG  JJS     JJ  NN    NN  IN    NNP  NNP     JJS   NN     VBN  IN DT     NN      NN CC         NN 
+
+-----------
+James Hornerand Will Jennings picked up the writing trophies 
+  NNP       NNP  NNP      NNP    VBD RP  DT      NN      NNS 
+
+-----------
+The movie  's soundtrack was the top-sellingalbum of 1998 , with more than  9 million units sold 
+ DT    NN POS         NN VBD  DT               NN IN   CD ,   IN  JJR   IN CD      CD   NNS  VBN 
+
+-----------
+Mr 
+NN 
+
+-----------
+Horner told the Shrine Auditorium and national televisionaudiences  he initially considered the song just  a movie theme 
+   NNP  VBD  DT    NNP        NNP  CC       JJ                 NNS PRP        RB        VBD  DT   NN   RB DT    NN    NN 
+
+-----------
+``  It spoke to  a lot of people , '' Horner said backstage 
+`` PRP   VBD TO DT  NN IN    NNS , ''    NNP  VBD        NN 
+
+-----------
+`` Itobviously was very romantic in  a wistful , timeless way 
+``          RB VBD   RB       JJ IN DT      JJ ,       JJ  NN 
+
+-----------
+`` Headmitted  he no longer listens to the song 
+``        VBD PRP RB    RBR     VBZ TO  DT   NN 
+
+-----------
+Actor-rapper Will Smith won best rap song for  his good-natured '' Gettin   ' Jiggy Wit  It 
+         NNP  NNP   NNP VBD  JJS  NN   NN  IN PRP$           JJ ''    NNP POS   NNP NNP PRP 
+
+-----------
+``  He paid tribute to God , `` the jiggiestwife in the world '' ( actress Jada Pinkett Smith ) and  his son , aboutwhom  he received bad news in  his first parent-teacher conferenceWednesday 
+`` PRP  VBD      NN TO NNP , ``  DT           NN IN  DT    NN '' (      IN  NNP     NNP   NNP )  CC PRP$  NN ,        NN PRP      VBD  JJ   NN IN PRP$    JJ             NN                  NN 
+
+-----------
+``  His rhyming skills are down , '' Smith said 
+`` PRP$      NN    NNS VBP   RB , ''   NNP  VBD 
+
+-----------
+``   I swear -- that'swhat the teacher told  me 
+`` PRP   VBP  :         IN  DT      NN  VBD PRP 
+
+-----------
+`` 
+`` 
+
+-----------
+Jay-Z  's `` Vol 
+  NNP POS `` NNP 
+
+-----------
+ 2 
+CD 
+
+-----------
+Hard Knock Life '' won best rap album , though  he skipped the show because  he does n't like the way theGrammys treat rap 
+ NNP   NNP  NNP '' VBD  JJS  NN    NN ,     IN PRP     VBD  DT   NN      IN PRP  VBZ  RB   VB  DT  NN         JJ    NN  NN 
+
+-----------
+The Beastie Boys won duo or group performancefor `` Intergalactic 
+ DT     NNP  NNP VBD  NN CC    NN            VBP ``            JJ 
+
+-----------
+`` 
+`` 
+
+-----------
+Canadian music historian Colin Escott won in the category of besthistorical album with  is compliation of `` The Complete Hank Williams 
+      JJ    NN        JJ   NNP    NNP VBD IN  DT       NN IN             JJ    NN   IN VBZ          NN IN ``  DT      NNP  NNP      NNP 
+
+-----------
+`` 
+`` 
+
+-----------
+American talk show host Rosie O'Donnell served as master of ceremonies 
+      JJ   NN   NN   NN   NNP       NNP    VBD IN     NN IN        NNS 
+
+-----------
+Who owns Youth News Network ? 
+ WP  VBZ   NNP  NNP     NNP . 
+
+-----------
+What did  it cost Meadowvale secondary to have  a satellite dish , televisions , and audio-visual equipment installed ? 
+  WP VBD PRP   VB        NNP        JJ TO   VB DT        JJ   NN ,         NNS ,  CC           JJ        NN       VBN . 
+
+-----------
+How many students attend Meadowvale secondary school ? 
+WRB   JJ      NNS    VBP        NNP        JJ     NN . 
+
+-----------
+When  is the deadline by which the school must decide whether to sign  a five-year contract with YNN ? 
+ WRB VBZ  DT       NN IN   WDT  DT     NN   MD     VB      IN TO   VB DT        JJ       NN   IN NNP . 
+
+-----------
+What does CBC Newsworld provide to schools ? 
+  WP  VBZ NNP       NNP     VBP TO     NNS . 
+
+-----------
+Who  is the principal of Meadowvale secondary ? 
+ WP VBZ  DT        NN IN        NNP        JJ . 
+
+-----------
+How long  is YNN  's newscast ? 
+WRB   JJ VBZ NNP POS       NN . 
+
+-----------
+What organization does Heather-Jane Robertson represent ? 
+  WP           NN  VBZ          NNP       NNP        NN . 
+
+-----------
+Television  is behind  a growing controversy in  a Mississauga , Ontariohigh school 
+        NN VBZ     IN DT     VBG          NN IN DT         NNP ,         NNP     NN 
+
+-----------
+And  it  's got nothing to do with what students are watchingin their spare time at home 
+ CC PRP VBZ VBD      NN TO VB   IN   WP      NNS VBP         VB  PRP$    JJ   NN IN   NN 
+
+-----------
+ It  's about teens having to watch commercials in school 
+PRP VBZ    IN   NNS    VBG TO    VB         NNS IN     NN 
+
+-----------
+Every day 
+   DT  NN 
+
+-----------
+ It  's  a controversy about the growing commercialization ofschools 
+PRP VBZ DT          NN    IN  DT     VBG                NN       NNS 
+
+-----------
+Youth News Network ,  a private news and current-affairs network , hasinstalled  a satellite dish and thousands of dollars worth of televisionsand audio-visual equipment at Meadowvale Secondary School free ofcharge 
+  NNP  NNP     NNP , DT      JJ   NN  CC              JJ      NN ,          VBD DT        JJ   NN  CC       NNS IN     NNS    IN IN             NN           JJ        NN IN        NNP       NNP    NNP   JJ       NN 
+
+-----------
+ It expects to start broadcasting  its 12-minute newscast -- complete with  2 1/2 minutes of commercials -- every day to the school's1,700 students starting in September 
+PRP     VBZ TO    VB          VBG PRP$        JJ       NN  :       JJ   IN CD  CD     NNS IN         NNS  :    DT  NN TO  DT            JJ      NNS      VBG IN       NNP 
+
+-----------
+But along with the bonanza of technology , the school isinheriting  a political hot potato 
+ CC    IN   IN  DT      NN IN         NN ,  DT     NN          VBG DT        JJ  NN     NN 
+
+-----------
+``   I happen to believe that  it  is completely unacceptable to sell offlittlebits of  our kids , '' said Heather-Jane Robertson , director of professionaldevelopment with the Canadian Teachers Federation 
+`` PRP    VBP TO      VB   IN PRP VBZ         RB           JJ TO   VB           NNS IN PRP$  NNS , ''  VBD          NNP       NNP ,       NN IN                      NN   IN  DT       JJ     NNPS        NNP 
+
+-----------
+`` If  we don'tunderstandthat  it  's wrong to sell off  our kids to advertisers , to compromisepubliceducation in that way , then  we can hardly turn around and blame thepeoplewho want to make money off  our stupidity 
+`` IN PRP                 VBP PRP VBZ    JJ TO   VB  RP PRP$  NNS TO         NNS , TO                        NN IN   DT  NN ,   RB PRP  MD     RB   VB     RP  CC    VB           NN  VBP TO   VB    NN  IN PRP$        NN 
+
+-----------
+`` 
+`` 
+
+-----------
+Some educators say YNN serves as an example of the wave ofcommercialization sweeping over schools at  a time when funding cuts areforcing public boards to look to businesses for help 
+  DT       NNS VBP NNP    VBZ IN DT      NN IN  DT   NN                  NN      VBG   IN     NNS IN DT   NN  WRB      NN  NNS        VBG     JJ    NNS TO   VB TO        NNS  IN   NN 
+
+-----------
+While public broadcasters such as CBC Newsworld and  TV Ontario provideprogramming free of charge to schools , none can come close to providingthewealth of televisions , VCRs , computers , and video cameras installed atMeadowvale under  its pilot project with YNN  's owner , Montreal-basedAthenaEducational Partners Inc 
+   IN     JJ          NNS   JJ IN NNP       NNP  CC NNP     NNP                VBG   JJ IN     NN TO     NNS ,   NN  MD   VB    RB TO                 NN IN         NNS ,  NNP ,       NNS ,  CC    NN     NNS       VBN           JJ    IN PRP$    NN      NN   IN NNP POS    NN ,                             NNP      NNP NNP 
+
+-----------
+Meadowvale principal Laurie Pedwell conceded that the technology waspartof YNN  's appeal 
+       NNP        JJ    NNP     NNP      VBD   IN  DT         NN       VBZ NNP POS     NN 
+
+-----------
+But she insisted that the sample broadcast viewed bystudents lastNovember was balanced and suitably tailored to teenagers 
+ CC PRP      VBD   IN  DT     NN        NN    VBD        NNS           NN VBD      VBN  CC       RB      VBD TO       NNS 
+
+-----------
+As for the advertisements , she said none was offensive or aggressivelypushing  a product , and most depicted teenagers positively 
+IN  IN  DT            NNS , PRP  VBD   NN VBD        JJ CC                 VBG DT      NN ,  CC  JJS       JJ       NNS         RB 
+
+-----------
+The school has  a June deadline to decide whether  it wants to sign afive-year contract with YNN 
+ DT     NN VBZ DT  NNP       NN TO     VB      IN PRP   VBZ TO   VB         JJ       NN   IN NNP 
+
+-----------
+Stephanie Lake  is  a grade twelve student at Meadowvale secondary 
+      NNP  NNP VBZ DT    JJ     NN      NN IN        NNP        JJ 
+
+-----------
+Sherecently wrote this essay about YNN coming to  her school 
+         RB   VBD   DT    NN    IN NNP    VBG TO PRP$     NN 
+
+-----------
+``  We may be teenagers , but  we 're not all couch potatoes ! Well , atleast  we were n't 
+`` PRP  MD VB       NNS ,  CC PRP VBP  RB  DT    JJ      NNS .  NNP ,      IN PRP  VBD  RB 
+
+-----------
+Who knows , maybe one day soon , secondary school students all acrossCanada will be the same - walking , brainwashed zombies 
+ WP   VBZ ,    RB  CD  NN   RB ,        JJ     NN      NNS  DT          VBP   MD VB  DT   JJ :      NN ,         VBD     NNS 
+
+-----------
+The blamefor this can be placed squarely on the shoulders of YNN and thegovernors of  our education system 
+ DT       NN   DT  MD VB    VBN       RB IN  DT       NNS IN NNP  CC          NNS IN PRP$        NN     NN 
+
+-----------
+Trust the government 
+  NNP  DT         NN 
+
+-----------
+  I  do n't think so ! 
+PRP VBP  RB    VB RB . 
+
+-----------
+  I  am upset with the administration of   my school for using  us , thestudents , as guinea pigs , in  a test which uses televisionsinappropriately in   my school 
+PRP VBP    JJ   IN  DT             NN IN PRP$     NN  IN   VBG PRP ,         NNS , IN     NN  NNS , IN DT   NN   WDT  VBZ                         RB IN PRP$     NN 
+
+-----------
+To read the rest of Stephanie  's essay , click here 
+TO   VB  DT   NN IN       NNP POS    NN ,    NN   RB 
+
+-----------
+When was the international landmine treaty agreed to by 130 countries ? 
+ WRB VBD  DT            JJ       NN     NN    VBD TO IN  CD       NNS . 
+
+-----------
+Which countries refused to sign the international accord on landmines ? 
+   JJ       NNS     VBD TO   VB  DT            JJ     NN IN       NNS . 
+
+-----------
+What  do  we call groups of people who are experts at ringing bells ? 
+  WP VBP PRP   VB    NNS IN    NNS  WP VBP     NNS IN     VBG   NNS . 
+
+-----------
+How long have North Korea and South Korea been in conflict ? 
+WRB   RB  VBP   NNP   NNP  CC   NNP   NNP  VBN IN       NN . 
+
+-----------
+What  is the name of the Portuguese anti-landmine film ? 
+  WP VBZ  DT   NN IN  DT         JJ            JJ   NN . 
+
+-----------
+Who  is the Secretary General of the United Nations ? 
+ WP VBZ  DT       NNP     NNP IN  DT    NNP    NNPS . 
+
+-----------
+Where  is Brasilia ? 
+  WRB VBZ      NNP . 
+
+-----------
+Church bells around the world rang out at noon yesterday as aninternational ban on landmines became international law 
+    NN   NNS     IN  DT    NN   NN  RP IN   RB        NN IN              JJ  NN IN       NNS    VBD            JJ  NN 
+
+-----------
+Canada was one of the leading countries behind the ban 
+   NNP VBD  CD IN  DT     VBG       NNS     IN  DT  NN 
+
+-----------
+In Melbourne , Australia bells rang at Saint Michael  's Uniting Church 
+IN       NNP ,       NNP   VBZ   NN IN   NNP     NNP POS     NNP     NN 
+
+-----------
+InBrasilia , the capital city of Brazil , anti-landmine pamphlets weredistributed and there were screenings of `` Spotlight on  a Massacre '' , ananti-landmines film in Portuguese 
+       NNP ,  DT      NN   NN IN    NNP ,            JJ       NNS             VBN  CC    EX  VBD        NNS IN ``       NNP IN DT      NNP '' ,               JJ   NN IN         JJ 
+
+-----------
+In Paris , France members of carillon associations - people who areexperts at ringing bells - coordinated the ringing of cathedral bellsacross the city 
+IN   NNP ,    NNP     NNS IN       NN          NNS :    NNS  WP        VBP IN     VBG   NNS :         VBD  DT      NN IN        JJ          IN  DT   NN 
+
+-----------
+And there was bell-ringing in approximately 30 Buddhisttemples and Christian churches in 10 cities throughout Japan , includingHiroshima , Tokyo and Osaka 
+ CC    EX VBD           NN IN            RB CD             NNS  CC        JJ      NNS IN CD    NNS         IN   NNP ,                 NN ,   NNP  CC   NNP 
+
+-----------
+The pact was agreed to by 130 countries in Ottawa , Ontario in 1997 
+ DT   NN VBD    VBN TO IN  CD       NNS IN    NNP ,     NNP IN   CD 
+
+-----------
+Russia , the United States , China and Ukraine did not sign the treaty 
+   NNP ,  DT    NNP   NNPS ,   NNP  CC     NNP VBD  RB   VB  DT     NN 
+
+-----------
+Despite these notable absences , Nobel Peace Prize winner Jody Williams , of TheInternational Campaign to Ban Landmines , says the accord has an impactfor many other countries in the world 
+     IN    DT      JJ      NNS ,   NNP   NNP   NNP     NN  NNP      NNP , IN              NNP      NNP TO NNP       NNP ,  VBZ  DT     NN VBZ DT        JJ   JJ    JJ       NNS IN  DT    NN 
+
+-----------
+The head of the United Nations , Secretary-General Kofi Annan describedthe treaty  's entry into force as  a milestone 
+ DT   NN IN  DT    NNP    NNPS ,                JJ  NNP   NNP          VBZ     NN POS    NN   IN    NN IN DT        NN 
+
+-----------
+``  It  is  a day whose arrival few could have predicted , and whose import tothe millions whose lives or limbs may be saved from these barbarousweapons can not be overestimated , ''  Mr 
+`` PRP VBZ DT  NN   WP$      NN  JJ    MD   VB       VBN ,  CC   WP$     NN    NN      NNS   WP$   NNS CC   NNS  MD VB   VBN   IN    DT              NNS  MD  RB VB           VBN , '' NNP 
+
+-----------
+Annan said 
+  NNP  VBD 
+
+-----------
+Pope John Paul added  his voice to the effort , urging more countries tosign the treaty 
+ NNP  NNP  NNP   VBD PRP$    NN TO  DT     NN ,    VBG  JJR       NNS    VBP  DT     NN 
+
+-----------
+The treaty prohibits the use , production and storage ofanti-personnel landmines and sets  a time limit for destroying stocks andclearing mine fields 
+ DT     NN       VBZ  DT  NN ,         NN  CC      NN               JJ       NNS  CC  VBZ DT   NN    NN  IN        VBG    NNS         VBG   NN    NNS 
+
+-----------
+There are two categories of landmines : antipersonnel (  AP ) andantitank or anti-vehicle (  AT ) : 
+   EX VBP  CD        NNS IN       NNS :            NN ( NNP )         VBD CC           NN ( NNP ) : 
+
+-----------
+-Anti-personnel (  AP ) landmine - ``  A mine designed to beexploded by the presence , proximity or contact of  a personand that will incapacitate , injure or kill one or morepersons 
+            NNS ( NNP )      VBP : `` DT   NN      VBN TO        VBN IN  DT       NN ,        NN CC      NN IN DT        NN  WDT   MD           VB ,     NN CC   VB  CD CC         NNS 
+
+-----------
+`` -Anti-tank (  AT ) landmine - An  AT mine  is  a devicedesigned to detonate by more than 100 kilograms ofpressure 
+``         NN ( NNP )      VBP : DT NNP   NN VBZ DT             JJ TO       VB IN  JJR   IN  CD       NNS         NN 
+
+-----------
+ AT mines can not distinguish between  a tank andtractor 
+NNP   NNS  MD  RB          VB      IN DT   NN         NN 
+
+-----------
+The United States has refused to sign the treaty , saying  it needs themines for  its defence along the border between North and South Korea 
+ DT    NNP   NNPS VBZ     VBN TO   VB  DT     NN ,    VBG PRP   VBZ      NNS  IN PRP$      NN    IN  DT     NN      IN   NNP  CC   NNP   NNP 
+
+-----------
+The governments of North and South Korea have been in constant conflictfor more then 40 years 
+ DT         NNS IN   NNP  CC   NNP   NNP  VBP  VBN IN       JJ          NN  RBR   RB CD   NNS 
+
+-----------
+Canada  's Foreign Affairs Minister Lloyd Axworthy spearheaded thepolitical initiative to get the treaty ratified 
+   NNP POS     NNP    NNPS      NNP   NNP      NNP         VBD           JJ         NN TO  VB  DT     NN      VBD 
+
+-----------
+`` For  us , this  is  a very important day , '' Foreign Affairs Minister LloydAxworthy said 
+``  IN PRP ,   DT VBZ DT   RB        JJ  NN , ''     NNP     NNP      NNP           NNP  VBD 
+
+-----------
+ He said the treaty  is  a stepping stone to furthering whathe calls the human security agenda 
+PRP  VBD  DT     NN VBZ DT      VBG    NN TO        VBG     NN   VBZ  DT    JJ       NN     NN 
+
+-----------
+The challenge now ,  he said ,  is to make the pact work 
+ DT        NN  RB , PRP  VBD , VBZ TO   VB  DT   NN   NN 
+
+-----------
+Why will Wang Shui-Bo be attending the Oscars this year ? 
+WRB   MD   VB     NNP VB       VBG  DT    NNP   DT   NN . 
+
+-----------
+What  is the name of Wang  's documentary ? 
+  WP VBZ  DT   NN IN  NNP POS          NN . 
+
+-----------
+Who fired on the student demonstrators in Tiananmen Square ? 
+ WP   VBD IN  DT      NN           NNS IN       NNP    NNP . 
+
+-----------
+When did Wang leave China ? 
+ WRB VBD  NNP    VB   NNP . 
+
+-----------
+Where does Wang live now ? 
+  WRB  VBZ  NNP   VB  RB . 
+
+-----------
+Who does n't need another revolution , according to Wang ? 
+ WP  VBZ  RB   VB      DT         NN ,       VBG TO  NNP . 
+
+-----------
+On Oscar night -- Sunday , March 21 -- actors Tom Hanks , and GwynethPaltrow and director Steven Spielberg wo n't be the only ones sitting onthe edge of their seats , hoping to hear their name read out 
+IN   NNP    NN  :    NNP ,   NNP CD  :    NNS NNP   NNP ,  CC            NNP  CC       NN    NNP       NNP MD  RB VB  DT   JJ  NNS     VBG    JJ   NN IN  PRP$   NNS ,    VBG TO   VB  PRP$   NN  VBN  RP 
+
+-----------
+CanadianWang Shui-Bo will also be in the audience hoping to win 
+         NNP     NNP   MD   RB VB IN  DT       NN    VBG TO  VB 
+
+-----------
+Wang Shui-Bo  is nominated for an Oscar for Best Short Documentary forhis half-hour film `` Sunrise over Tiananmen Square 
+ NNP     NNP VBZ       VBN  IN DT   NNP  IN  NNP   NNP         NNP    VBD        JJ   NN ``     NNP   IN       NNP    NNP 
+
+-----------
+`` 
+`` 
+
+-----------
+The film  is  a Wang  's perspective on the events that led up to June 4,1989 , when Chinese government troops opened fire on studentdemonstrators in Beijing  's Tiananmen Square 
+ DT   NN VBZ DT  NNP POS          NN IN  DT    NNS  WDT VBD RP TO  NNP     CD ,  WRB      JJ         NN    NNS    VBD   NN IN                  NNS IN     NNP POS       NNP    NNP 
+
+-----------
+Wang traces  his personal journey through  a collage of originalartwork mixed with family and archival photographs 
+ NNP    VBZ PRP$       JJ      NN      IN DT      NN IN              NN    JJ   IN     NN  CC       NN          NN 
+
+-----------
+ It  's  a journeythat begins with Wang as  a loyal Communist , full of the politicalidealism common in China under the early years of leader Mao Tse Tung 
+PRP VBZ DT          NN    VBZ   IN  NNP IN DT    JJ        NN ,   JJ IN  DT                NN     JJ IN   NNP    IN  DT    JJ   NNS IN     NN NNP NNP  NNP 
+
+-----------
+ It ends with him as an anti-government activistwilling to risk  his life to uphold thefirst stirrings of democracy 
+PRP  VBZ   IN PRP IN DT              JJ              NN TO   VB PRP$   NN TO     VB       JJ       NNS IN        NN 
+
+-----------
+`` Sunrise over Tiananmen Square '' shows how the dream starts to fadeduring the Cultural Revolution in the '60s and '70s , when the Red Guardsattack and destroy anything linked to the old Chinese culture 
+``      NN   IN       NNP    NNP ''   VBZ WRB  DT    NN    VBZ TO        VBG  DT       JJ        NNP IN  DT  NNS  CC   CD ,  WRB  DT NNP          NNP  CC      VB       NN    VBN TO  DT  JJ      JJ      NN 
+
+-----------
+And howthe dream  is crushed when the tanks roll in Tiananmen Square 
+ CC     JJ    NN VBZ     VBN  WRB  DT   NNS  VBP IN       NNP    NNP 
+
+-----------
+Wang fled China after the student uprising and now lives inMontreal , Quebec 
+ NNP  VBD   NNP    IN  DT      NN       NN  CC  RB   VBZ         NN ,    NNP 
+
+-----------
+But  he was in Beijing when  he learned of hisOscar nomination 
+ CC PRP VBD IN     NNP  WRB PRP     VBD IN       NN         NN 
+
+-----------
+Even today  his film ca n't be shown in China 
+  RB    NN PRP$   NN MD  RB VB   VBN IN   NNP 
+
+-----------
+But Wanghopes that one day that will change , and explosive subjectssuch as the Tiananmen Square massacre will no longer betaboo 
+ CC       NNP   IN  CD  NN  WDT   MD     VB ,  CC        JJ           NN IN  DT       NNP    NNP       NN   MD RB    RBR      VB 
+
+-----------
+Wang believes  his film delivers  a message that the tragedyat Tiananmen should never happen again 
+ NNP      VBZ PRP$   NN      NNS DT      NN   IN  DT        JJ       NNP     MD    RB     VB    RB 
+
+-----------
+`` China doesn'tneed  a revolution 
+``   NNP          VB DT         NN 
+
+-----------
+The people here  do n't need anotherrevolution 
+ DT    NNS   RB VBP  RB   VB                NN 
+
+-----------
+ We have suffered so much since 100 years ago 
+PRP  VBP      VBN RB   JJ    IN  CD   NNS  RB 
+
+-----------
+`` ``  It  's time to enjoy life , '' Wang says 
+`` `` PRP VBZ   NN TO    VB   NN , ''  NNP  VBZ 
+
+-----------
+Wang may now live in the West , but  he 'll wear  a traditionalChinese jacket for the Oscars and if  he wins , Wang knowsexactly what  he 'll say : `` Thank you to   my motherland , China 
+ NNP  MD  RB   VB IN  DT  NNP ,  CC PRP  MD   VB DT                 JJ     NN  IN  DT    NNP  CC IN PRP  VBZ ,  NNP           RB   WP PRP  MD  VB : ``    VB PRP TO PRP$         NN ,   NNP 
+
+-----------
+Thank you Canada , thank you Montreal , merci Quebec 
+  NNP PRP    NNP ,    NN PRP      NNP ,    NN    NNP 
+
+-----------
+`` 
+`` 
+
+-----------
+What  is the scientific name for marijuana ? 
+  WP VBZ  DT         JJ   NN  IN        NN . 
+
+-----------
+What  is the Health Department  's study going to examine about marijuana ? 
+  WP VBZ  DT    NNP        NNP POS    NN   VBG TO      VB    IN        NN . 
+
+-----------
+Who has the Canadian Health Department consulted with about obtaining marijuana ? 
+ WP VBZ  DT      NNP    NNP        NNP       VBD   IN    IN       VBG        NN . 
+
+-----------
+Why was Mark Crossley sentenced to house arrest ? 
+WRB VBD  NNP      NNP       VBD TO    NN     NN . 
+
+-----------
+Where has marijuana already been approved for medical use ? 
+  WRB VBZ       VBN      RB  VBN      VBN  IN      JJ  NN . 
+
+-----------
+How long does  it take for delta-9 tetrahydrocannabinol to be absorbed into the bloodstream when someone smokes marijuana ? 
+WRB   RB  VBZ PRP   VB  IN      JJ                   NN TO VB      VBN   IN  DT          NN  WRB      NN    VBZ       NNS . 
+
+-----------
+The federal government has plans to take  a new look at the use ofmarijuana for people who are suffering from painful diseases such ascancer , AIDS and multiple sclerosis 
+ DT      JJ         NN VBZ   VBZ TO   VB DT  JJ   NN IN  DT  NN          NN  IN    NNS  WP VBP       VBG   IN      JJ      NNS   JJ       NN ,  NNP  CC       JJ        NN 
+
+-----------
+All use of marijuana  is now illegal in Canada 
+ DT  NN IN        NN VBZ  RB      JJ IN    NNP 
+
+-----------
+But if  a scientific studyof the drug shows that  it can help relieve pain in some people ,  it couldbe legalized for medical use only 
+ CC IN DT         JJ      NN  DT   NN   VBZ   IN PRP  MD   VB      VB   NN IN   DT    NNS , PRP     VBZ       VBN  IN      JJ  NN   RB 
+
+-----------
+Marijuana  is the common name of Cannabis sativa ,  a plant which containsmore than 400 chemicals 
+      NNP VBZ  DT     JJ   NN IN      NNP     NN , DT    NN   WDT          JJR   IN  CD       NNS 
+
+-----------
+What  is commonly referred to as marijuana ( `` grass '' , `` pot '' , `` weed '' ) in North America  is usually made up of crushedcannabis leaves , flowers , and often twigs 
+  WP VBZ       RB      VBN TO IN        NN ( ``    NN '' , ``  NN '' , ``   NN '' ) IN   NNP     NNP VBZ      RB  VBN IN IN              NN    NNS ,     NNS ,  CC    RB   NNS 
+
+-----------
+Health Minister Allan Rock announced yesterday that  his department isputting together guidelines for  a scientific look at marijuana 
+   NNP      NNP   NNP  NNP       VBD        NN   IN PRP$         NN       VBG       RB        NNS  IN DT         JJ   NN IN        NN 
+
+-----------
+Thestudy would examine how the drug should be administered , and how  a safesupply could be distributed to patients 
+     NNP    MD      VB WRB  DT   NN     MD VB          VBN ,  CC WRB DT         NN    MD VB         VBN TO      NNS 
+
+-----------
+`` There are people who are dying , ''  Mr 
+``    EX VBP    NNS  WP VBP   VBG , '' NNP 
+
+-----------
+Rock said 
+ NNP  VBD 
+
+-----------
+`` They want access tosomething they believe will help with their symptoms 
+``  PRP  VBP     NN         VBG  PRP     VBP   MD   VB   IN  PRP$      NNS 
+
+-----------
+ We want to help 
+PRP  VBP TO   VB 
+
+-----------
+`` 
+`` 
+
+-----------
+The Health Department has already consulted with the Food and DrugAdministration in the United States -- which  is also planning similartrials -- about acquiring marijuana for the tests 
+ DT    NNP        NNP VBZ      RB       VBN   IN  DT  NNP  CC                NNP IN  DT    NNP   NNPS  :   WDT VBZ   RB       JJ           NNS  :    IN       VBG        NN  IN  DT   NNS 
+
+-----------
+Making marijuana available to patients by prescription will not meanchanges to the criminal code 
+   VBG       RBS        JJ TO      NNS IN           NN   MD  RB          VB TO  DT       JJ   NN 
+
+-----------
+Marijuana could be administered under anexisting section of the Food and Drug Act , which allows for specialaccess to prohibited substances 
+      NNP    MD VB          VBN    IN        VBG      NN IN  DT  NNP  CC  NNP NNP ,   WDT    VBZ  IN            NN TO        VBN        NNS 
+
+-----------
+The belief that marijuana eases pain in some patients has been growing -- although people continue to face criminal charges across Canada evenwhen they claim to be using  it for medical purposes 
+ DT     NN   IN        NN   NNS  VBP IN   DT      NNS VBZ  VBN     VBG  :       IN    NNS      VBP TO   VB       JJ     NNS     IN    NNP       NN  PRP   VBP TO VB   VBG PRP  IN      JJ      NNS 
+
+-----------
+THC ( delta-9 tetrahydrocannabinol )  is the main psychoactive part ofmarijuana 
+NNP (      JJ                   NN ) VBZ  DT   JJ           JJ   NN          NN 
+
+-----------
+When marijuana  is smoked , THC  is absorbed from the lungs tothe bloodstream within minutes 
+ WRB        NN VBZ    VBN , NNP VBZ      VBN   IN  DT   NNS   VBP          NN     IN     NNS 
+
+-----------
+Mark Crossley  is  a 38-year-old Nova Scotia man with an inoperable braintumour 
+ NNP      NNP VBZ DT          JJ  NNP    NNP  NN   IN DT         JJ          NN 
+
+-----------
+ He was sentenced last week to four months of house arrest and18 months probation for growing marijuana in  his backyard 
+PRP VBD       VBN   JJ   NN TO   CD    NNS IN    NN     NN    JJ    NNS        NN  IN     VBG        NN IN PRP$       NN 
+
+-----------
+ He said hereceived the sentence even after the court was told  he smoked the drugto deal with the painful headaches and appetite loss caused by hiscancer 
+PRP  VBD        VBN  DT       NN   RB    IN  DT    NN VBD  VBN PRP    VBD  DT     NN   NN   IN  DT      JJ       NNS  CC       JJ   NN    VBN IN        NN 
+
+-----------
+ His doctor approved 
+PRP$     NN      VBD 
+
+-----------
+Mr 
+NN 
+
+-----------
+Rock said  his announcement  is not  a step toward  a widespreadlegalization of the drug 
+ NNP  VBD PRP$           NN VBZ  RB DT   NN     IN DT                     NN IN  DT   NN 
+
+-----------
+`` This has nothing to do with legalizing marijuana , ''  he said 
+``   DT VBZ      NN TO VB   IN        VBG        NN , '' PRP  VBD 
+
+-----------
+But headded , ``   I think Canadians support on  a compassionate basis , if someoneis dying , access to  a substance that could alleviate their suffering 
+ CC     VBD , `` PRP   VBP      NNPS      NN IN DT            JJ    NN , IN        JJ    NN ,     NN TO DT        NN  WDT    MD        VB  PRP$        NN 
+
+-----------
+`` 
+`` 
+
+-----------
+An Edmonton doctor who specializes in pain management agrees with thefederal government  's move 
+DT      NNP     NN  WP         VBZ IN   NN         NN    VBZ   IN         JJ         NN POS   NN 
+
+-----------
+Doctor Helen Hays studied  a patient whosmoked marijuana to fight the symptoms of  a painful muscle disorder 
+   NNP   NNP  NNP     VBD DT      NN       VBD       NNS TO    VB  DT      NNS IN DT      JJ     NN       NN 
+
+-----------
+`` There was  a tremendous improvement , '' she said 
+``    EX VBD DT         JJ          NN , '' PRP  VBD 
+
+-----------
+She also says thatsmoking marijuana brings  its own side effects and does n't work foreveryone 
+PRP   RB  VBZ         VBG        JJ    VBZ PRP$  JJ   NN     NNS  CC  VBZ  RB   VB          NN 
+
+-----------
+``  We all need to know an awful lot more about  it 
+`` PRP  DT  VBP TO   VB DT    JJ  NN  RBR    IN PRP 
+
+-----------
+`` 
+`` 
+
+-----------
+Doctors can currently prescribe  a synthetic form of marijuana , but  it isexpensive , and many patients complain that oral forms of the drugdo n't work as well as smoking  it 
+    NNS  MD        RB        VB DT        JJ   NN IN        NN ,  CC PRP          JJ ,  CC   JJ      NNS      VBP   IN   JJ   NNS IN  DT     NN  RB  VBD RB   RB IN     VBG PRP 
+
+-----------
+Several American states have already approved the medical use ofmarijuana 
+     JJ       JJ    NNS  VBP      RB      VBN  DT      JJ  NN          NN 
+
+-----------
+ It was taken to  a vote in seven   U 
+PRP VBD   VBN TO DT   NN IN    CD NNS 
+
+-----------
+ S 
+NN 
+
+-----------
+states and the Districtof Columbia 
+   NNS  CC  DT        NNP      NNP 
+
+-----------
+ A similar bill was also recently presented in the British House ofCommons in London 
+DT      JJ   NN VBD   RB       RB       VBN IN  DT      JJ   NNP       NNS IN    NNP 
+
+-----------
+Who authored  a study on the differences between the rich and poor in Canada ? 
+ WP      VBD DT    NN IN  DT         NNS      IN  DT   JJ  CC   JJ IN    NNP . 
+
+-----------
+How  is Alberta  's economy doing ? 
+WRB VBZ     NNP POS      NN   VBG . 
+
+-----------
+Where in Alberta , Canada  is the difference between rich and poor most noticible ? 
+  WRB IN     NNP ,    NNP VBZ  DT         NN      IN   JJ  CC   JJ  RBS        JJ . 
+
+-----------
+Why does Calgary have many high-paying managment jobs ? 
+WRB  VBZ     NNP   VB   JJ          JJ        NN  NNS . 
+
+-----------
+When did Ms. Yalnizyan give  a speech ? 
+ WRB VBD NNP       NNP   VB DT     NN . 
+
+-----------
+Albertans are rich in wealth but poor in spirit , says the author of arecent study 
+      NNS VBP   JJ IN     NN  CC   JJ IN     NN ,  VBZ  DT     NN IN      NN    NN 
+
+-----------
+Armine Yalnizyan , an economist who studied the differences betweenCanada  's rich and poor , found that the difference between rich and poorwas growing fastest in Alberta 
+   NNP       NNP , DT        NN  WP     VBD  DT         NNS           VBP POS   JJ  CC   JJ ,   VBD   IN  DT         NN      IN   JJ  CC      JJ     VBG     JJS IN     NNP 
+
+-----------
+Yalnizyan also noted that Albertans areextremely competitive , and have  a `` law of the jungle '' view of life 
+      NNP   RB   VBD   IN      NNPS           RB          JJ ,  CC  VBP DT ``  NN IN  DT     NN ''   NN IN   NN 
+
+-----------
+ It  's this outlook of , `If you can get  it , keep  it 
+PRP VBZ   DT      NN IN ,  IN PRP  MD  VB PRP ,   VB PRP 
+
+-----------
+And if you 're notgetting  it , then you 're  a loser ,  ' ''  Ms 
+ CC IN PRP VBP        VBG PRP ,   RB PRP VBP DT    NN , '' '' NNP 
+
+-----------
+Yalnizyan said Thursday during aspeech 
+       NN  VBD      NNP     IN      NN 
+
+-----------
+Yalnizyan added that she did not hear that type of thinking intoo many places in Canada 
+       NN   VBD   IN PRP VBD  RB   VB   IN   NN IN      VBG    JJ   JJ    NNS IN    NNP 
+
+-----------
+Yalnizyan  's report  is for the Centre For Social Justice in Toronto 
+      NNP POS     NN VBZ  IN  DT    NNP  IN    NNP     NNP IN     NNP 
+
+-----------
+Ituses Statistics Canada figures to look at growing income differencesbetween Canada  's rich and poor 
+   NNS       NNPS    NNP     NNS TO   VB IN     VBG     NN                 IN    NNP POS   JJ  CC   JJ 
+
+-----------
+When Yalnizyan looked at the Alberta data , she discovered that whileAlberta  's economy  is growing , the difference between the rich and pooris expanding more rapidly than anywhere else in Canada 
+ WRB        NN    VBD IN  DT     NNP   NN , PRP        VBD   IN           NN POS      NN VBZ     VBG ,  DT         NN      IN  DT   JJ  CC     JJ       VBG  RBR      RB   IN       RB   RB IN    NNP 
+
+-----------
+The difference  is most noticeable in Calgary where the city  's prosperityhas meant more high-paying management jobs , but also more unstable andlow-paying part-time work 
+ DT         NN VBZ  RBS         JJ IN     NNP   WRB  DT   NN POS            JJ   VBN  RBR          JJ         NN  NNS ,  CC   RB  RBR       JJ            JJ        JJ   NN 
+
+-----------
+Yalnizyan feels that attitudes are as much to blame for this inequalityas government spending cuts ,  a low minimum wage and the spread ofpart-time jobs 
+       JJ   NNS  WDT       NNS VBP RB   JJ TO    VB  IN   DT           JJ         NN       NN  NNS , DT  JJ      NN   NN  CC  DT     JJ          JJ  NNS 
+
+-----------
+She argues that cultural expectations are one of thefirst factors shaping the way the labour market performs 
+PRP    VBZ   IN       JJ          NNS VBP  CD IN       JJ     NNS     VBG  DT  NN  DT     NN     NN      NNS 
+
+-----------
+One example , she said ,  is Albertans   ' enthusiasm for tax cuts even thoughthe province  's health care and education systems are in bad shape , andneed tax money to be improved 
+ CD      NN , PRP  VBD , VBZ       NNP POS         NN  IN  NN  NNS   RB       VBP       NN POS     NN   NN  CC        NN     NNS VBP IN  JJ    NN ,      VB  NN    NN TO VB      VBN 
+
+-----------
+`` There  's  a kind of sky's-the-limit attitude 
+``    EX VBZ DT   NN IN              JJ       NN 
+
+-----------
+What  's mine  is mine 
+  WP VBZ   NN VBZ   JJ 
+
+-----------
+Andthe more disparate incomes get , the more accentuated these attitudesget , and more of  a lottery mentality occurs 
+   NNP  JJR        NN     NNS VBP ,  DT  RBR          JJ    DT           NN ,  CC  JJR IN DT      NN        NN    VBZ 
+
+-----------
+`` 
+`` 
+
+-----------
+Where did the issue of chemical pollutants in the Arctic come to  a head recently ? 
+  WRB VBD  DT    NN IN       JJ        NNS IN  DT    NNP   NN TO DT   NN       RB . 
+
+-----------
+Why  is eating Arctic fish and game  a frightening and tricky business ? 
+WRB VBZ    VBG    NNP   NN  CC   NN DT          NN  CC     JJ       NN . 
+
+-----------
+When did the issue of chemical contaminants in Arctic food come to  a head ? 
+ WRB VBD  DT    NN IN       JJ          NNS IN    NNP   NN   NN TO DT   NN . 
+
+-----------
+Who does Carole Mills represent ? 
+ WP  VBZ    NNP   NNP        NN . 
+
+-----------
+How does Mills convince  her family members to eat fish ? 
+WRB  VBZ   NNP       VB PRP$     NN     NNS TO  VB   JJ . 
+
+-----------
+What are POPs ? 
+  WP VBP  NNP . 
+
+-----------
+What  is muktuk ? 
+  WP VBZ    VBN . 
+
+-----------
+Who  is Eric Loring ? 
+ WP VBZ  NNP    NNP . 
+
+-----------
+Why does Carole Mills think  it  is more of  a health risk not to eat country food than to eat  it ? 
+WRB  VBZ    NNP   NNP   VBP PRP VBZ  JJR IN DT     NN   NN  RB TO  VB      NN   NN   IN TO  VB PRP . 
+
+-----------
+Chemicals are polluting the animals of the Arctic ,  a United Nationsconference was told this week 
+      NNS VBP       VBG  DT     NNS IN  DT    NNP , DT    NNP                NN VBD  VBN   DT   NN 
+
+-----------
+The build-up of these chemicals makeseating Arctic fish and game  a frightening and tricky business 
+ DT       NN IN    DT       NNS         VBG    NNP   NN  CC   NN DT          NN  CC     JJ       NN 
+
+-----------
+The issue came to  a head recently as both Canadian aboriginal andfederal delegates attended  a United Nations conference in Africa 
+ DT    NN  VBD TO DT   NN       RB IN   DT      NNP         JJ         JJ       NNS      VBD DT    NNP     NNP         NN IN    NNP 
+
+-----------
+Theywere seeking to bring attention to the negative effects ofglobally-produced chemical contaminants on the Arctic food chain 
+      RB     VBG TO    VB        NN TO  DT       JJ     NNS                  JJ       JJ          NNS IN  DT    NNP   NN    NN 
+
+-----------
+Carole Mills works with the problem daily , both in the contaminantsdivision of the Department of Indian and Northern Affairs , and as arepresentative of the Canadian Arctic Indigenous Peoples Against POPs 
+   NNP   NNP   VBZ   IN  DT      NN    RB ,   DT IN  DT                   NN IN  DT        NNP IN    NNP  CC      NNP     NNP ,  CC IN              NN IN  DT      NNP    NNP        NNP     NNP     NNP  NNP 
+
+-----------
+`` POPS '' are persistent organic pollutants 
+``   NN '' VBP         JJ      JJ        NNS 
+
+-----------
+`` The contamination of animals  is confusing and sometimes even alarming , and even   my own family members have sometimes stopped eating fishuntil   I could talk to them and explain that the contaminants doconcentrate in specific parts , so you  do n't have to stop eating theanimals , '' she says 
+``  DT            NN IN     NNS VBZ       VBG  CC        RB   RB      VBG ,  CC   RB PRP$  JJ     NN     NNS  VBP        RB     VBN    VBG        NN PRP    MD   VB TO  PRP  CC      VB   IN  DT          NNS            NN IN       JJ   NNS , IN PRP VBP  RB   VB TO   VB     NN        NNS , '' PRP  VBZ 
+
+-----------
+Ms 
+NN 
+
+-----------
+Mills says the concentration of chemical pollutants in marineMammals increases as  its position in the food chain gets higher 
+  NNP  VBZ  DT            NN IN       NN        NNS IN           NNS       NNS IN PRP$       NN IN  DT   NN    NN  VBZ    JJR 
+
+-----------
+Somicro-organisms carry little contamination ; the fish that eat them carryslightly more , and the build-up continues through the chain to includepredatory fish , seals , walruses , whales and polar bears and , lastly , humans 
+              NNP    NN     JJ            NN :  DT   NN  WDT VBD  PRP            RB  RBR ,  CC  DT       NN       VBZ      IN  DT    NN TO               JJ   NN ,   NNS ,      NNS ,    NNS  CC    JJ   NNS  CC ,     RB ,    NNS 
+
+-----------
+Ms 
+NN 
+
+-----------
+Mills says land-based animals like caribou are very clean 
+  NNP  VBZ         JJ     NNS   IN     NNS VBP   RB    JJ 
+
+-----------
+She saysit  is only the organs and fat of marine mammals that concerned individualsmight want to avoid 
+PRP     NN VBZ   RB  DT    NNS  CC  NN IN     NN     NNS  WDT       VBD               JJ   NN TO    VB 
+
+-----------
+She says concentrations are bound to be higher inmuktuk ,  a dish made from seal , walrus or whale fat 
+PRP  VBZ            NNS VBP   VBN TO VB    JJR       NN , DT   NN  VBN   IN   NN ,     NN CC    NN  NN 
+
+-----------
+Ultimately ,  Ms 
+        RB , NNP 
+
+-----------
+Mills stresses  a calm , sensible approach 
+  NNS      VBZ DT   NN ,       JJ       NN 
+
+-----------
+That advice isseconded by Eric Loring , environmental wildlife coordinator with theInuit Tapirisat of Canada 
+  DT     NN        VBN IN  NNP    NNP ,            JJ       NN          NN   IN       NN       NNP IN    NNP 
+
+-----------
+The Tapirisat  is an organization thatrepresents Canadian Inuit 
+ DT       NNP VBZ DT           NN            NNS       JJ   NNP 
+
+-----------
+``  We  do n't really know what the effects of the contamination are , andthat  's the problem , '' Loring said Thursday 
+`` PRP VBP  RB     RB   VB   WP  DT     NNS IN  DT            NN VBP ,      WP VBZ  DT      NN , ''    VBG  VBD      NNP 
+
+-----------
+Both Mills and Loring stressed the importance of not scaring peopleaway from country food , while they continue their research and lobbyingefforts to turn off the global `` chemical tap 
+  DT   NNP  CC    NNP      VBD  DT         NN IN  RB     VBG         RB   IN      NN   NN ,    IN  PRP      VBP  PRP$       NN  CC             VBZ TO   VB  RP  DT     JJ ``       JJ  NN 
+
+-----------
+`` 
+`` 
+
+-----------
+``   I would say right now  it  's more of  a health risk to not eat countryfood than to eat  it , '' Loring said , `` because  it contains vitamins andnutrients that they would never find in store-bought food 
+`` PRP    MD  VB    RB  RB PRP VBZ  JJR IN DT     NN   NN TO  RB  VB          NN   IN TO  VB PRP , ''    NNP  VBD , ``      IN PRP      VBZ      NNS          NNS   IN  PRP    MD    RB   VB IN           JJ   NN 
+
+-----------
+`` 
+`` 
+
+-----------
+Both Mills , who  is of Gwich'in descent , and Loring stressed theimportance of country food to aboriginal peoples   ' sense of identity 
+  DT   NNP ,  WP VBZ IN      NNP      NN ,  CC    VBG       JJ            NN IN      NN   NN TO         JJ     NNS POS    NN IN       NN 
+
+-----------
+``  It  's important as  a cultural activity -- so much so that at the ITCoffice every day for lunch  we have raw seal , fish , caribou or berries , '' saidLoring 
+`` PRP VBZ        JJ IN DT       JJ       NN  : RB   RB IN   DT IN  DT       NNP    DT  NN  IN    NN PRP  VBP  JJ   NN ,   JJ ,      JJ CC     NNS , ''        VBG 
+
+-----------
+``  We have access to the same great supermarkets as anyone elsein Ottawa , but this  is  our healthy choice 
+`` PRP  VBP     NN TO  DT   JJ    JJ          NNS IN     NN     NN    NNP ,  CC   DT VBZ PRP$      JJ     NN 
+
+-----------
+`` 
+`` 
+
+-----------
+source : Northern News Service 
+    NN :      NNP  NNP     NNP 
+
+-----------
+How does Newfoundland intend to use  a film of seals feasting on cod ? 
+WRB  VBZ          NNP     VB TO  VB DT   NN IN   NNS      VBG IN  NN . 
+
+-----------
+Why has there been  a moratorium on cod fishing ? 
+WRB VBZ    RB  VBN DT         NN IN  NN      NN . 
+
+-----------
+When was the moratorium instituted ? 
+ WRB VBD  DT         NN        VBN . 
+
+-----------
+What  is the estimated size of the seal herd ? 
+  WP VBZ  DT        JJ   NN IN  DT   NN   NN . 
+
+-----------
+By how much does John Efford want to cut the seal herd ? 
+IN WRB   JJ  VBZ  NNP    NNP  VBP TO  VB  DT   NN   NN . 
+
+-----------
+Where  is Dalhousie University ? 
+  WRB VBZ       NNP        NNP . 
+
+-----------
+How much was sealing worth to the Newfoundland economy in 1996 ? 
+WRB   JJ VBD     VBG    NN TO  DT          NNP      NN IN   CD . 
+
+-----------
+The Newfoundland government has  a new weapon in  its fight to increasethe seal hunt : film of cod carnage 
+ DT          NNP         NN VBZ DT  JJ     NN IN PRP$    NN TO          VB   JJ   NN :   NN IN  NN      NN 
+
+-----------
+Underwater footage shows `` tens of thousands of cod lying on the bottom , gutted 
+       NNP      NN   VBZ ``  NNS IN       NNS IN  NN   VBG IN  DT     NN ,    VBD 
+
+-----------
+ It looks pretty bad , '' says Mary MacNab , the government'sseal industry promotions officer 
+PRP   VBZ     RB  JJ , ''  VBZ  NNP    NNP ,  DT               NN       NN        NNS      NN 
+
+-----------
+`` From   my own impression ,  it  's the killing fields 
+``   IN PRP$  JJ         NN , PRP VBZ  DT      NN    NNS 
+
+-----------
+`` 
+`` 
+
+-----------
+The footage , filmed last week by fishermen using governmentsupplied equipment , shows the ocean floor after  a group of sealscrowded cod into  a bay and started feasting 
+ DT      NN ,    VBN   JJ   NN IN       NNS   VBG                 JJ        NN ,   VBZ  DT    NN    NN    IN DT    NN IN           JJ  NN   IN DT  NN  CC     VBD      VBG 
+
+-----------
+Lloyd Oldford of Red Cliff , Bonavista Bay ,  a fisherman who first alertedEfford to the problem , said the video in no way shows the true extent ofthe destruction fishermen are seeing 
+  NNP     NNP IN NNP   NNP ,       NNP NNP , DT        NN  WP    RB           VBZ TO  DT      NN ,  VBD  DT    NN IN DT  NN   VBZ  DT   JJ     NN    NN          NN       NNS VBP    VBG 
+
+-----------
+``   I can show you 100 miles of  it , '' said Oldford 
+`` PRP  MD   VB PRP  CD   NNS IN PRP , ''  VBD     NNP 
+
+-----------
+`` There  's nothing butdead fish in every crook and cranny 
+``    EX VBZ      NN      JJ   NN IN    DT    NN  CC     NN 
+
+-----------
+ It  's everywhere , massivedestruction 
+PRP VBZ         RB ,                 NN 
+
+-----------
+ It  's taking away  a great source of income from  us 
+PRP VBZ    VBG   RP DT    JJ     NN IN     NN   IN PRP 
+
+-----------
+If  we  do n't dosomething about this seal problem , more people are going to be leavingthe province 
+IN PRP VBP  RB         VBG    IN   DT   NN      NN ,  JJR    NNS VBP   VBG TO VB         JJ       NN 
+
+-----------
+`` 
+`` 
+
+-----------
+John Efford , Newfoundland  's fisheries minister , says the `` verydisturbing '' images will wake up people to the toll seals are takingon northern cod stocks 
+ NNP    NNP ,          NNP POS       NNS       NN ,  VBZ  DT ``             NN ''    NNS   MD   VB RP    NNS TO  DT   NN   NNS VBP       JJ       JJ  NN    NNS 
+
+-----------
+There has been  a moratorium -  a temporary ban - on fishing for codsince 1992 after fish stocks dropped to dangerous levels 
+   EX VBZ  VBN DT         NN : DT        JJ  NN : IN      NN  IN       NN   CD    IN   JJ    NNS     VBD TO        JJ    NNS 
+
+-----------
+``  We thought by bringing in the moratorium , that in  a few yearsthe cod stocks would start to return , ''  he says 
+`` PRP     VBD IN      VBG IN  DT         NN ,   IN IN DT  JJ       NN  NN    NNS    MD    VB TO     VB , '' PRP  VBZ 
+
+-----------
+`` But seven years after the closure of the ground fish industry , stocks today are worse then they were previous to 1992 
+``  CC    CD   NNS    IN  DT      NN IN  DT     NN   JJ       NN ,    NNS    NN VBP   JJR   RB  PRP  VBD       JJ TO   CD 
+
+-----------
+`` There  's only one answer to that 
+``    EX VBZ   RB  CD     NN TO   DT 
+
+-----------
+ We 've got anoverpopulated seal herd 
+PRP VBP VBN              JJ   NN   NN 
+
+-----------
+`` 
+`` 
+
+-----------
+Mr 
+NN 
+
+-----------
+Efford says the seal herd , which  is estimated at six million , needsto be cut in half 
+   NNP  VBZ  DT   NN   NN ,   WDT VBZ       VBN IN  CD      CD ,      RB VB VBN IN   NN 
+
+-----------
+That would mean increasing the annual quota of275,000 harp seals to between 475,000 and 575,000 animals 
+  DT    MD   VB        VBG  DT     JJ    NN        NN   NN   NNS TO      IN      CD  CC      CD     NNS 
+
+-----------
+Jeff Hutchings ,  a professor at Dalhousie University in Halifax , NovaScotia says  it  is  a stretch for  Mr 
+ NNP       NNP , DT        NN IN       NNP        NNP IN     NNP ,        NNP  VBZ PRP VBZ DT      NN  IN NNP 
+
+-----------
+Efford to use evidence of sealspreying on cod in one location to argue for  a massive cull ( harvest ) ofthe seal herd 
+   NNP TO  VB       NN IN          VBG IN  NN IN  CD       NN TO    VB  IN DT      JJ   NN (     JJS )    FW   NN   NN 
+
+-----------
+`` The degree to which seals are retarding the recovery of codstocks remains an open question 
+``  DT     NN TO   WDT   NNS VBP       VBG  DT       NN IN       NNS     VBZ DT   JJ       NN 
+
+-----------
+Maybe they are 
+   RB  PRP VBP 
+
+-----------
+Maybe theyare n't 
+   RB     VBP  RB 
+
+-----------
+`` 
+`` 
+
+-----------
+ He adds that documentation of seals having eaten onlythe fish stomachs suggests scientists may have underestimated howmany cod the seals kill 
+PRP  VBZ   IN            NN IN   NNS    VBG   VBN      JJ   JJ      NNS      VBZ        NNS  MD   VB            VBN      JJ VBP  DT   NNS   VB 
+
+-----------
+Researchers detect traces of fish in seal stomachs only if theyeat the whole fish 
+        NNS    VBP    NNS IN   NN IN   NN      NNS   RB IN     VBN  DT    JJ   NN 
+
+-----------
+Today , sealing comprises  a vital part of Newfoundland  's sluggisheconomy 
+   NN ,     VBG       NNS DT    JJ   NN IN          NNP POS              NN 
+
+-----------
+In 1996 alone  it was worth in excess of $ 11 million , with sealproducts being sold in Canada , Norway and Asia 
+IN   CD    IN PRP VBD    JJ IN     NN IN $ CD      CD ,   IN          NNS   VBG  VBN IN    NNP ,    NNP  CC  NNP 
+
+-----------
+What  is Bill 101 ? 
+  WP VBZ  NNP  CD . 
+
+-----------
+What does Bill 101 require ? 
+  WP  VBZ   VB  CD      NN . 
+
+-----------
+Who described Dr. Laurin as ``  a pioneer ,  a builder ,  a man of conviction , determined '' ? 
+ WP       VBD NNP    NNP IN `` DT      NN , DT      NN , DT  NN IN         NN ,        VBN '' . 
+
+-----------
+When did Bill 101 come into effect ? 
+ WRB VBD  NNP  CD   NN   IN     NN . 
+
+-----------
+How does the president of the Alliance Quebec English-rights lobby describe Laurin  's masterwork , Bill 101 ? 
+WRB  VBZ  DT        NN IN  DT      NNP    NNP            NNP    NN       NN    NNP POS         NN ,  NNP  CD . 
+
+-----------
+How do Quebec nationalists credit Bill 101 ? 
+WRB VB    NNP          NNS     NN  NNP  CD . 
+
+-----------
+The Quebec politician known as the father of Bill 101 -- the province'svery controversial language law -- has died 
+ DT    NNP         NN   VBN IN  DT     NN IN  NNP  CD  :  DT             NN            JJ       NN  NN  : VBZ  VBN 
+
+-----------
+Camille Laurin was 76 
+    NNP    NNP VBD CD 
+
+-----------
+ He had been ill with cancer 
+PRP VBD  VBN  JJ   IN     NN 
+
+-----------
+Dr 
+NN 
+
+-----------
+Laurin was  a psychiatrist who became active in Quebec politicsduring the 1960  's 
+   NNP VBD DT           NN  WP    VBD     JJ IN    NNP            VBG  DT   CD POS 
+
+-----------
+ He was first elected to the Quebec National Assembly , Quebec'slegislative assembly , in 1970 
+PRP VBD    RB     VBN TO  DT    NNP      NNP      NNP ,                 NNP       NN , IN   CD 
+
+-----------
+Dr 
+NN 
+
+-----------
+Camille Laurin once described  his beloved language law as the '' re-conquest '' of Quebec 
+    NNP    NNP   RB       VBD PRP$      JJ       NN  NN IN  DT ''          NN '' IN    NNP 
+
+-----------
+ He was referring to the history of Quebec 
+PRP VBD       VBG TO  DT      NN IN    NNP 
+
+-----------
+During the 18th and 19th century , French-speaking Quebecers were oftenruled by governments that were controlled by England 
+    IN  DT   CD  CC   JJ      NN ,              JJ       NNS  VBD        VBN IN         NNS  WDT  VBD        VBN IN     NNP 
+
+-----------
+ManyFrench-speaking Quebecers considered themselves tohave been conquered by `` les anglais '' - the English 
+                 JJ       NNS        VBN        PRP    VBP  VBN       VBN IN `` NNS      RB '' :  DT      JJ 
+
+-----------
+By the 1950  's French-speaking Quebecers were increasingly convinced thatthe only way to stand up for their own rights was for Quebec to becomean independent country , separate from Canada 
+IN  DT   CD POS              JJ       NNS  VBD           RB       VBN      IN   RB  NN TO    VB RP  IN  PRP$  JJ    NNS VBD  IN    NNP TO       VB          JJ      NN ,       JJ   IN    NNP 
+
+-----------
+Camille Laurin was amongthem 
+    NNP    NNP VBD        JJ 
+
+-----------
+Bill 101 required signs in Quebec to be in French 
+ NNP  CD      VBD   NNS IN    NNP TO VB IN     JJ 
+
+-----------
+Before Bill 101became law many signs in Quebec were only in English , even though themajority of the population  is French speaking 
+    IN  NNP        CD  NN   JJ   NNS IN    NNP  VBD   RB IN     NNP ,   RB     IN          NN IN  DT         NN VBZ     JJ      VBG 
+
+-----------
+Bill 101 also requiredthe children of immigrants to go to French schools 
+ NNP  CD   RB          JJ      NNS IN        NNS TO VB TO    NNP     NNS 
+
+-----------
+Many French-speakingQuebecers were worried that immigrants would choose English schools fortheir children 
+  JJ                      NNS  VBD      JJ   IN        NNS    MD     VB      JJ     NNS       JJ      NNS 
+
+-----------
+That would mean that the French language would slowlydie away 
+  DT    MD   VB   IN  DT     JJ       NN    MD        VB   RP 
+
+-----------
+Many English-speaking Quebecers did not like Bill 101 because they feltit took away their freedom to put up English signs 
+  JJ               JJ       NNS VBD  RB   IN  NNP  CD      IN  PRP    VBP  VBD   RP  PRP$      NN TO  VB RP     NNP   NNS 
+
+-----------
+They also disagreedwith the government telling immigrants which schools they mustattend 
+ PRP   RB           VBP  DT         NN     VBG        NNS   WDT     NNS  PRP        VBP 
+
+-----------
+Bill 101 came into effect in 1977 
+ NNP  CD  VBD   IN     NN IN   CD 
+
+-----------
+For many years  it was big news inQuebec as there were many demonstrations - both from people whosupported the bill and from those who hated  it 
+ IN   JJ   NNS PRP VBD  JJ   NN       NN IN    EX  VBD   JJ            NNS :   DT   IN    NNS          VBD  DT   NN  CC   IN    DT  WP   VBD PRP 
+
+-----------
+One thing was never in question , however , was  Dr 
+ CD    NN VBD    RB IN       NN ,      RB , VBD NNP 
+
+-----------
+Laurin  's passionatelove of Quebec 
+   NNP POS             NN IN    NNP 
+
+-----------
+`` Dr 
+`` NN 
+
+-----------
+Laurin was  a pioneer ,  a builder ,  a man of conviction , determined , '' says Francois Gendron , chairman of the Parti Quebecois caucus in thelegislature 
+   NNP VBD DT      NN , DT      NN , DT  NN IN         NN ,        VBD , ''  VBZ      NNP     NNP ,       NN IN  DT   NNP       NNP     NN IN             NN 
+
+-----------
+Liberal opposition Leader Jean Charest praised  his protection of theFrench language 
+     JJ         NN    NNP  NNP     NNP     VBD PRP$         NN IN        JJ       NN 
+
+-----------
+``  He was  a man who was devoted to the interests of Quebec and in thatsense today  is  a day of sadness for  us 
+`` PRP VBD DT  NN  WP VBD     VBN TO  DT       NNS IN    NNP  CC IN        NN    NN VBZ DT  NN IN      NN  IN PRP 
+
+-----------
+`` 
+`` 
+
+-----------
+To some in the English-language community , Laurin symbolizedfrancophones who wanted to crush the anglophone minority 
+TO   DT IN  DT              NNP        NN ,    NNP                    NNS  WP    VBD TO    VB  DT         NN       NN 
+
+-----------
+William Johnson ,  a hardline English-rights activist , said hewas personally saddened by the death of  his ideological opponent 
+    NNP     NNP , DT       JJ             JJ       NN ,  VBD    NN         RB      VBN IN  DT    NN IN PRP$          JJ       NN 
+
+-----------
+``  He was very cultivated man , with  a seductive charm 
+`` PRP VBD   RB         JJ  NN ,   IN DT        JJ    NN 
+
+-----------
+`` 
+`` 
+
+-----------
+But the president of the Alliance Quebec English-rights lobbycondemned Laurin  's masterwork as an attempt to `` wipe outbilingualism '' in Canada 
+ CC  DT        NN IN  DT      NNP    NNP            NNP            VBD    NNP POS         NN IN DT      NN TO ``   VB              NN '' IN    NNP 
+
+-----------
+Bill 101  is credited by Quebecnationalists as helping preserve the French language in  a sea ofEnglish in North America 
+ NNP  CD VBZ      VBN IN                NNS IN     VBG       VB  DT     JJ       NN IN DT  NN        NN IN   NNP     NNP 
+
+-----------
+Dr 
+NN 
+
+-----------
+Laurin made no apologies for the law  's toughness , saying the lawsimply reflected Quebec  's demographic reality 
+   NNP  VBD DT       NNS  IN  DT  NN POS        NN ,    VBG  DT        NN       VBD    NNP POS          JJ      NN 
+
+-----------
+Although  it meant  a lower profile for anglophones and less cloutafter years of predominance , Laurin said  it took away no basicrights and recognized their institutions , schools and media 
+      IN PRP   VBD DT   JJR      NN  IN         NNS  CC  JJR         JJ   NNS IN           NN ,    NNP  VBD PRP  VBD   RP DT         NNS  CC        VBN  PRP$          NNS ,     NNS  CC   NNS 
+
