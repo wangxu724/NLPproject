@@ -1,6 +1,8 @@
 import nltk
 import re
+from sets import Set
 from nltk.tag import StanfordNERTagger
+from nltk.stem import SnowballStemmer
 from random import randint
 
 def QASolver(qaTest):
@@ -48,19 +50,50 @@ def back_a_step(story, i, j):
 def isNNP(item):
     return item == 'NNP' or item == 'NN' or item == 'NNS'
 
+def getStopWordSet():
+    stopword = Set(["a", "an", "the", "he", "she", "it", "they", "them", "those", "their", "these", "of", "to", "from", "by", "with", "for", "at", "should", "would", "could", "can", "will", "must", "shall"])
+    # stopword = Set([])
+    return stopword
+
+def getStem(word):
+    stemmer = SnowballStemmer("english")
+    return stemmer.stem(word)
+
+def getQuesWords():
+    key_words = Set(["what", "where", "when", "why", "how"])
+    return key_words
+
+def getQuesKeyWords(ques_words, ques_key_words):
+    for word in ques_words:
+        if word in ques_key_words:
+            return word
+    return ""
+
+
 def questionSolver(question, story):
     #question is a string
     #story is the story_text in qaTest
     
     # Ensure the type of answer from what, when, who, etc.
     # ans_types = {'person', 'location', 'object', 'number', 'time', 'pattern', 'reason'};
-    
+    stopword = getStopWordSet()
+
     # Parse the Quesiton
     ques_words = question.split(" ");
-    key_word = ques_words[0];
+
+    # Get keyword from question
+    # Where, What, When, Why, Who, How
+    ques_key_words = getQuesWords()
+
+    key_word = getQuesKeyWords(ques_words, ques_key_words)
     key_map = {"many": 0, "much": 0, "long": 0, "old": 0}
     isnumber = False
+    
+    ###################################
+    ### Print The key Word of Question
+    ###################################
     print key_word
+
     if key_word == "How":
         if ques_words[1] in key_map:
             isnumber = True;
@@ -69,8 +102,9 @@ def questionSolver(question, story):
     for i in range(len(ques_words)):
         ques_words[i] = ques_words[i].replace('?', '')
         ques_words[i] = ques_words[i].lower()
+        ques_words[i] = getStem(ques_words[i])
     
-    ques_words_set = set(ques_words[1:]);
+    ques_words_set = set(ques_words[:]);
     # print ques_words_set
 
     i = 0
@@ -87,7 +121,8 @@ def questionSolver(question, story):
                 if word.isalpha() == False:
                     word = re.sub('[^A-Za-z]', '', word)
                 word = word.lower()
-                if word in ques_words_set:
+                word = getStem(word)
+                if word not in stopword and word in ques_words_set:
                     count += 1;
             if count >= maxcount:
                 maxcount = count
@@ -106,7 +141,8 @@ def questionSolver(question, story):
                 if word.isalpha() == False:
                     word = re.sub('[^A-Za-z]', '', word)
                 word = word.lower()
-                if word in ques_words_set:
+                word = getStem(word)
+                if word not in stopword and word in ques_words_set:
                     count += 1;
             if count == maxcount:
                res_sent.append(sent);
