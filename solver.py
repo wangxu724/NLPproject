@@ -60,13 +60,13 @@ def getStem(word):
     return stemmer.stem(word)
 
 def getQuesWords():
-    key_words = Set(["what", "where", "when", "why", "how"])
+    key_words = Set(["what", "where", "when", "why", "how", "who"])
     return key_words
 
 def getQuesKeyWords(ques_words, ques_key_words):
     for word in ques_words:
-        if word in ques_key_words:
-            return word
+        if word.lower() in ques_key_words:
+            return word.lower()
     return ""
 
 
