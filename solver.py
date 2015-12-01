@@ -50,6 +50,10 @@ def back_a_step(story, i, j):
 def isNNP(item):
     return item == 'NNP' or item == 'NN' or item == 'NNS'
 
+def isADJ(item):
+    return item == 'DT' or item == 'IN' or item == 'CC' or item == 'JJ'
+
+# The stop words is not good
 def getStopWordSet():
     stopword = Set(["a", "an", "the", "he", "she", "it", "they", "them", "those", "their", "these", "of", "to", "from", "by", "with", "for", "at", "should", "would", "could", "can", "will", "must", "shall"])
     # stopword = Set([])
@@ -60,14 +64,26 @@ def getStem(word):
     return stemmer.stem(word)
 
 def getQuesWords():
-    key_words = Set(["what", "where", "when", "why", "how"])
+    key_words = Set(["what", "where", "when", "why", "how", "who", "which", "whose", "whom"])
     return key_words
 
 def getQuesKeyWords(ques_words, ques_key_words):
+    i = 0
     for word in ques_words:
-        if word in ques_key_words:
-            return word
-    return ""
+        temp = word.lower() 
+        if temp in ques_key_words:
+            if word[0] >= 'a' and word[0] <= 'z':
+                word = str(word[0]).upper() + word[1:]
+            return (word, i + 1)
+        i += 1
+    return ("", 0)
+
+def deleteDuplicateWord(question, sentence):
+    ans = ""
+    for word in sentence:
+        if word not in question:
+            ans = ans + word + " "
+    return ans
 
 
 def questionSolver(question, story):
@@ -85,8 +101,8 @@ def questionSolver(question, story):
     # Where, What, When, Why, Who, How
     ques_key_words = getQuesWords()
 
-    key_word = getQuesKeyWords(ques_words, ques_key_words)
-    key_map = {"many": 0, "much": 0, "long": 0, "old": 0}
+    (key_word, nextID) = getQuesKeyWords(ques_words, ques_key_words)
+    key_map = {"many": 0, "much": 0, "long": 0, "old": 0, "far": 0}
     isnumber = False
     
     ###################################
@@ -95,7 +111,8 @@ def questionSolver(question, story):
     print key_word
 
     if key_word == "How":
-        if ques_words[1] in key_map:
+        if ques_words[nextID] in key_map:
+            print ques_words[nextID]
             isnumber = True;
 
     # print ques_words;
@@ -149,28 +166,37 @@ def questionSolver(question, story):
             j += 1;
         i += 1;
 
-    if key_word == "Why":  
+    if key_word == "Why": 
         return res_sent[0]
-    elif key_word == "Who":
+    elif key_word == "Who" or key_word == "Whom" or key_word == "Whose" or key_word == "Which":
+
         for sent in res_sent:
             pos_sents = nltk.pos_tag(nltk.word_tokenize(sent));
 
             item_word = ""
             flag = False;
             for item in pos_sents:
-                if isNNP(item[1]):
+                if isNNP(item[1]) or isADJ(item[1]):
                     if flag == True:
                         item_word = ""
-                        continue
                     temp = re.sub('[^A-Za-z]', '', item[0].lower());
                     if temp in ques_words_set:
-                        flag = True;
+                        if isNNP(item[1]):
+                            flag = True;
+                        else:
+                            if item_word != "":
+                                return item_word
                     else:
                         item_word += item[0] + ' ';
-                elif isNNP(item[1]) == False:
+                elif isNNP(item[1]) == False and isADJ(item[1]):
+                    if flag == True:
+                        item_word = ""
                     flag = False
                     if item_word != "":
                         return item_word
+
+
+
     elif key_word == "What":
         for sent in res_sent:
             pos_sents = nltk.pos_tag(nltk.word_tokenize(sent));
@@ -226,6 +252,7 @@ def questionSolver(question, story):
                         return item[0];
         return res_sent[0]
     else:
+        print question
         return story[maxi][maxj]
 
 
