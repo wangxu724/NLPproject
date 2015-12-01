@@ -14,7 +14,7 @@ Group Member:
 	            else:
 	                1. run: 
 	                	> pip install --install-option="--prefix=/some/local/path/" nltk
-	                2. Add "/that/path/" to the PYTHONPATH environment variable
+	                2. Add “/some/path/lib/python2.7/site-packages/“ to the PYTHONPATH environment variable
 	        2. run: 
 	        	> python
 	        3. in the python interpreter type:
